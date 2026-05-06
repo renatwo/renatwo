@@ -19,6 +19,9 @@
 * APIs REST
 * GitHub
 * OpenAI API
+* Google AI Studio
+* Claude AI
+* Google Vertex AI
 
 📚 Atualmente aprendendo:
 
