@@ -109,12 +109,14 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48"/>
+  <img src="https://cdn.simpleicons.org/lovable/EC4899" height="48" alt="Lovable"/>
 </p>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge&logo=lovable&logoColor=white)
 
 ---
 
