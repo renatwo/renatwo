@@ -124,7 +124,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,azure" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/salesforce.svg" height="48" alt="Salesforce"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/salesforce.svg" height="70" alt="Salesforce"/>
 </p>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -221,7 +221,6 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 </div>
 
 ---
-
 
 
 <div align="center">
