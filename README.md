@@ -219,7 +219,7 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 ---
 
-# 🐍 Snake
+
 
 <div align="center">
 
