@@ -63,6 +63,12 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 
 ## 🤖 Inteligência Artificial & LLMs
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="44" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="44" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="44" alt="Google AI"/>
+</p>
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -73,6 +79,12 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ---
 
 ## ⚙️ Automação & Integrações
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="44" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="44" alt="Evolution API / WhatsApp"/>
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="44" alt="Zapier"/>
+</p>
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -106,6 +118,11 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ---
 
 ## ☁️ Cloud & CRM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,azure" height="48"/>
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="48" alt="Salesforce"/>
+</p>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -202,12 +219,11 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 ---
 
-# 🎵 Ouvindo agora
+# 🐍 Snake
 
 <div align="center">
 
-<!-- Troque SEU-DEPLOY pela URL gerada no seu Vercel depois de configurar -->
-<img src="https://SEU-DEPLOY.vercel.app/api/view?background_color=121212&bar_color=D97757&bar_color_cover=false&cover_image=true" alt="Spotify Now Playing" />
+<img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
