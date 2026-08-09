@@ -64,7 +64,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ## 🤖 Inteligência Artificial & LLMs
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=openai&logoColor=white" height="44" alt="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="44" alt="OpenAI"/>
   <img src="https://cdn.simpleicons.org/anthropic/D97757" height="44" alt="Claude"/>
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="44" alt="Google AI"/>
 </p>
@@ -124,7 +124,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,azure" height="48"/>
-  <img src="https://img.shields.io/badge/-%20-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="48" alt="Salesforce"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/salesforce.svg" height="48" alt="Salesforce"/>
 </p>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -221,6 +221,7 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 </div>
 
 ---
+
 
 
 <div align="center">
