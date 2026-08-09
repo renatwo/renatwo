@@ -40,10 +40,12 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ## 👨‍💻 Linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html" height="48" alt="Python, Java, HTML"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -99,6 +101,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -169,15 +172,21 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 # 🎯 Áreas de Interesse
 
-* 🤖 Inteligência Artificial
-* 🧠 IA Generativa
-* 🤖 Agentes de IA
-* ⚙️ Automação de Processos
-* 🐍 Desenvolvimento Python
-* 🔗 Integração de APIs
-* ☁️ Cloud & IA
-* 📊 Machine Learning
-* 💼 Soluções de IA para empresas
+<div align="center">
+
+![Inteligência Artificial](https://img.shields.io/badge/-Intelig%C3%AAncia_Artificial-2B2D42?style=flat-square)
+![IA Generativa](https://img.shields.io/badge/-IA_Generativa-2B2D42?style=flat-square)
+![Agentes de IA](https://img.shields.io/badge/-Agentes_de_IA-2B2D42?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-2B2D42?style=flat-square)
+<br/>
+![Automação de Processos](https://img.shields.io/badge/-Automa%C3%A7%C3%A3o_de_Processos-2B2D42?style=flat-square)
+![Desenvolvimento Python](https://img.shields.io/badge/-Desenvolvimento_Python-2B2D42?style=flat-square)
+![Integração de APIs](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o_de_APIs-2B2D42?style=flat-square)
+<br/>
+![Cloud & IA](https://img.shields.io/badge/-Cloud_%26_IA-2B2D42?style=flat-square)
+![Soluções de IA para Empresas](https://img.shields.io/badge/-Solu%C3%A7%C3%B5es_de_IA_para_Empresas-2B2D42?style=flat-square)
+
+</div>
 
 ---
 
@@ -185,14 +194,20 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatwo&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=renatwo&theme=tokyonight&no-frame=true&row=1&column=6)
+</div>
+
+---
+
+# 🎵 Ouvindo agora
+
+<div align="center">
+
+<!-- Troque SEU-DEPLOY pela URL gerada no seu Vercel depois de configurar -->
+<img src="https://SEU-DEPLOY.vercel.app/api/view?background_color=121212&bar_color=D97757&bar_color_cover=false&cover_image=true" alt="Spotify Now Playing" />
 
 </div>
 
@@ -218,3 +233,5 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 > Transformando processos manuais em soluções inteligentes com **IA, automação e tecnologia**.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
