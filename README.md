@@ -1,12 +1,25 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+
+</div>
+
 # 👋 Olá, eu sou Renato Queiroz
 
-🎓 **Estudante de Inteligência Artificial Aplicada na PUCPR**
+🎓 Estudante de **Inteligência Artificial Aplicada na PUCPR**
 
-Sou apaixonado por Inteligência Artificial, automação de processos e desenvolvimento de soluções que geram resultados reais para empresas.
+Sou apaixonado por **Inteligência Artificial, automação de processos e desenvolvimento de soluções** que geram resultados reais para empresas.
 
-Atualmente estou em transição de carreira para a área de tecnologia e construindo projetos práticos com IA, Python, APIs e automações inteligentes.
+Atualmente estou em **transição de carreira para a área de tecnologia** e construindo projetos práticos utilizando **IA, Python, APIs e automações inteligentes**.
 
-Meu objetivo é desenvolver soluções que economizem tempo, aumentem a produtividade e ajudem empresas a crescer por meio da Inteligência Artificial.
+🎯 Meu objetivo é desenvolver soluções que **economizem tempo, aumentem a produtividade e ajudem empresas a crescer por meio da Inteligência Artificial**.
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge&color=D97757&logo=github&logoColor=white&labelColor=181717)
+
+</div>
 
 ---
 
@@ -14,57 +27,101 @@ Meu objetivo é desenvolver soluções que economizem tempo, aumentem a produtiv
 
 * 🤖 Agentes de IA para WhatsApp
 * ⚙️ Automações inteligentes com n8n
-* 🧠 Aplicações utilizando OpenAI
+* 🧠 Aplicações utilizando modelos de IA
 * 📅 Sistemas inteligentes de agendamento
 * 🔗 Integrações entre APIs
 * 💬 Bots conversacionais
-* 📊 Automatização de processos empresariais
+* 📊 Automação de processos empresariais
 
 ---
 
 # 💻 Stack Tecnológica
 
-### Linguagens
+## 👨‍💻 Linguagens
 
-* Python
-* SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+</p>
 
-### Inteligência Artificial
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* OpenAI API
-* Claude AI
-* Google AI Studio
-* Google Vertex AI
+---
 
-### Automação
+## ⚡ Backend & APIs
 
-* n8n
-* Evolution API
-* APIs REST
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/>
+</p>
 
-### Banco de Dados
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-* PostgreSQL
-* Supabase
+---
 
-### Ferramentas
+## 🤖 Inteligência Artificial & LLMs
 
-* Git
-* GitHub
-* VS Code
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+---
+
+## ⚙️ Automação & Integrações
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![APIs](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge&logo=postman&logoColor=white)
+![Zapier](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+## 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" height="48"/>
+</p>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 🛠️ Desenvolvimento & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48"/>
+</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## ☁️ Cloud & CRM
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
 # 📚 Atualmente estudando
 
-* Inteligência Artificial Generativa
-* Arquitetura de Agentes de IA
-* Machine Learning
-* Engenharia de Prompt
-* FastAPI
-* Integração de APIs
-* Salesforce Administrator
-* Automação de Processos
+* 🧠 Inteligência Artificial Generativa
+* 🤖 Arquitetura de Agentes de IA
+* 📊 Machine Learning
+* 🧩 Prompt Engineering
+* 🧠 Context Engineering
+* ⚡ FastAPI
+* 🔗 Integração de APIs
+* ☁️ Salesforce Administrator
+* 🏗️ Microsoft Foundry
+* ⚙️ Automação de Processos
 
 ---
 
@@ -72,57 +129,92 @@ Meu objetivo é desenvolver soluções que economizem tempo, aumentem a produtiv
 
 ## 🤖 Sistema Inteligente de Agendamento
 
-Assistente de IA para WhatsApp capaz de realizar agendamentos, responder perguntas e automatizar atendimentos.
+Assistente de IA integrado ao **WhatsApp**, capaz de realizar agendamentos, responder perguntas e automatizar atendimentos.
 
-### 💬 Bot Inteligente para WhatsApp
+**Tecnologias utilizadas:**
 
-Bot integrado à Evolution API e OpenAI para atendimento automatizado e comunicação inteligente.
-
-### 🔄 Integrações Inteligentes
-
-Automações utilizando Google Sheets, APIs e bancos de dados para eliminar tarefas repetitivas.
-
-### 📈 Automações Empresariais
-
-Fluxos automatizados para reduzir atividades manuais e aumentar a eficiência operacional.
+`IA` `WhatsApp` `APIs` `Automação` `Banco de Dados`
 
 ---
 
-# 🎯 Objetivo Profissional
+## 💬 Bot Inteligente para WhatsApp
 
-Busco minha primeira oportunidade como Desenvolvedor de IA, Desenvolvedor de Automação ou Desenvolvedor Back-end.
+Bot integrado à **Evolution API e modelos de Inteligência Artificial**, desenvolvido para automatizar atendimentos e criar interações inteligentes com usuários.
 
-Tenho interesse em atuar com:
+**Tecnologias utilizadas:**
 
-* Inteligência Artificial
-* IA Generativa
-* Agentes de IA
-* Desenvolvimento Back-end
-* Automação de Processos
-* APIs
-* Integração de Sistemas
-* Salesforce
+`Evolution API` `OpenAI` `n8n` `APIs REST`
 
 ---
 
-# 🌱 Em constante evolução
+## 🔄 Integrações Inteligentes
 
-Acredito que tecnologia transforma negócios.
+Automações conectando diferentes sistemas, APIs, bancos de dados e ferramentas para eliminar tarefas repetitivas e melhorar processos.
 
-Por isso, estou constantemente estudando, desenvolvendo projetos e explorando novas ferramentas para criar soluções inteligentes que gerem impacto real.
+**Tecnologias utilizadas:**
+
+`Python` `APIs` `Google Sheets` `PostgreSQL` `n8n`
+
+---
+
+## 📈 Automações Empresariais
+
+Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimizar processos internos e aumentar a eficiência operacional.
+
+**Tecnologias utilizadas:**
+
+`n8n` `IA` `APIs` `Automação`
+
+---
+
+# 🎯 Áreas de Interesse
+
+* 🤖 Inteligência Artificial
+* 🧠 IA Generativa
+* 🤖 Agentes de IA
+* ⚙️ Automação de Processos
+* 🐍 Desenvolvimento Python
+* 🔗 Integração de APIs
+* ☁️ Cloud & IA
+* 📊 Machine Learning
+* 💼 Soluções de IA para empresas
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatwo&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=renatwo&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
 # 📫 Contato
 
-📧 **E-mail:** [renato@renatoaqueiroz.com](mailto:renato@renatoaqueiroz.com)
+<div align="center">
 
-💼 **LinkedIn:** [www.linkedin.com/in/renato-queiroz-876ba518b](http://www.linkedin.com/in/renato-queiroz-876ba518b)
+[![Email](https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato@renatoaqueiroz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renato-queiroz-876ba518b)
+[![GitHub](https://img.shields.io/badge/GitHub-renatwo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatwo)
+[![Website](https://img.shields.io/badge/Portfolio-renatoaqueiroz.com-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://renatoaqueiroz.com)
+
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+<div align="center">
 
-Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de Inteligência Artificial e Automação.
+### 🚀 Construindo minha carreira em Inteligência Artificial, Automação e Desenvolvimento.
 
+> Transformando processos manuais em soluções inteligentes com **IA, automação e tecnologia**.
 
+</div>
