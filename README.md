@@ -238,7 +238,6 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 [![Email](https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato@renatoaqueiroz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renato-queiroz-876ba518b)
 [![GitHub](https://img.shields.io/badge/GitHub-renatwo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatwo)
-[![Website](https://img.shields.io/badge/Portfolio-renatoaqueiroz.com-D97757?style=for-the-badge&logo=googlechrome&logoColor=white)](https://renatoaqueiroz.com)
 
 </div>
 
