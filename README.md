@@ -90,6 +90,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![APIs](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge&logo=postman&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-1C1C1C?style=for-the-badge&logoColor=white)
 
 ---
 
