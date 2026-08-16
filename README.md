@@ -10,14 +10,14 @@
 
 Sou apaixonado por **Inteligência Artificial, automação de processos e desenvolvimento de soluções** que geram resultados reais para empresas.
 
-Atualmente estou em **transição de carreira para a área de tecnologia** e construindo projetos práticos utilizando **IA, Python, APIs e automações inteligentes**.
+Atualmente estou em **transição de carreira para a área de tecnologia** e construindo projetos práticos utilizando **IA, Python, APIs, bancos de dados e automações inteligentes**.
 
 🎯 Meu objetivo é desenvolver soluções que **economizem tempo, aumentem a produtividade e ajudem empresas a crescer por meio da Inteligência Artificial**.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge&color=D97757&logo=github&logoColor=white&labelColor=181717)
+![Profile Views](https://komarev.com/ghpvc/?username=renatwo\&color=D97757\&style=for-the-badge\&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge\&color=D97757\&logo=github\&logoColor=white\&labelColor=181717)
 
 </div>
 
@@ -32,6 +32,8 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 * 🔗 Integrações entre APIs
 * 💬 Bots conversacionais
 * 📊 Automação de processos empresariais
+* 🗄️ Integração com bancos de dados
+* 🌐 Aplicações e sistemas web
 
 ---
 
@@ -40,24 +42,28 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ## 👨‍💻 Linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html" height="48" alt="Python, Java, HTML"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html" height="48" alt="Python, Java, JavaScript e HTML"/>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-## ⚡ Backend & APIs
+## ⚡ Backend, APIs & Integrações
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,postman" height="48" alt="FastAPI e Postman"/>
 </p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -69,12 +75,12 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="44" alt="Google AI"/>
 </p>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 
 ---
 
@@ -86,51 +92,63 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="44" alt="Zapier"/>
 </p>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![APIs](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge&logo=postman&logoColor=white)
-![Zapier](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Dify](https://img.shields.io/badge/Dify-1C1C1C?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge\&logo=chatwoot\&logoColor=white)
+![APIs](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge\&logo=postman\&logoColor=white)
+![Zapier](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge\&logo=zapier\&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-1C1C1C?style=for-the-badge\&logoColor=white)
 
 ---
 
 ## 🗄️ Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="48" alt="PostgreSQL, MySQL e Redis"/>
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="48" alt="Supabase"/>
 </p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
 ---
 
 ## 🛠️ Desenvolvimento & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" height="48" alt="Ferramentas de desenvolvimento"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lovable.svg" height="48" alt="Lovable"/>
 </p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge\&logoColor=white)
 
 ---
 
-## ☁️ Cloud & CRM
+## ☁️ Cloud & Hospedagem
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,azure" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/salesforce.svg" height="70" alt="Salesforce"/>
+  <img src="https://skillicons.dev/icons?i=gcp,azure" height="48" alt="Google Cloud e Microsoft Azure"/>
 </p>
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge\&logo=hostinger\&logoColor=white)
+
+---
+
+## 💼 Plataformas Empresariais
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
 
 ---
 
@@ -146,6 +164,30 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 * ☁️ Salesforce Administrator
 * 🏗️ Microsoft Foundry
 * ⚙️ Automação de Processos
+* 💻 Desenvolvimento com JavaScript
+
+---
+
+# 🏢 Highland Automation
+
+Projeto autoral voltado ao desenvolvimento de **soluções com Inteligência Artificial, automação e integração de sistemas para empresas**.
+
+A Highland Automation nasceu com o objetivo de transformar processos manuais e repetitivos em soluções digitais mais eficientes, utilizando **IA, automações, APIs e sistemas inteligentes**.
+
+### 🚀 Soluções desenvolvidas
+
+* 🤖 Agentes de IA integrados ao WhatsApp
+* 📅 Sistemas inteligentes de agendamento
+* 💬 Automação de atendimento ao cliente
+* ⚙️ Automação de processos empresariais
+* 🔗 Integrações entre APIs e sistemas
+* 🗄️ Integração com bancos de dados
+* 🧠 Assistentes inteligentes com IA
+* 📊 Sistemas administrativos e dashboards
+
+### 🛠️ Tecnologias utilizadas
+
+`n8n` `Supabase` `PostgreSQL` `Redis` `Evolution API` `OpenAI` `Google Vertex AI` `Lovable` `Docker` `Hostinger` `REST APIs` `Webhooks`
 
 ---
 
@@ -157,7 +199,7 @@ Assistente de IA integrado ao **WhatsApp**, capaz de realizar agendamentos, resp
 
 **Tecnologias utilizadas:**
 
-`IA` `WhatsApp` `APIs` `Automação` `Banco de Dados`
+`IA` `WhatsApp` `n8n` `APIs` `Supabase` `PostgreSQL` `Automação`
 
 ---
 
@@ -167,7 +209,7 @@ Bot integrado à **Evolution API e modelos de Inteligência Artificial**, desenv
 
 **Tecnologias utilizadas:**
 
-`Evolution API` `OpenAI` `n8n` `APIs REST`
+`Evolution API` `OpenAI` `n8n` `APIs REST` `Webhooks`
 
 ---
 
@@ -177,7 +219,7 @@ Automações conectando diferentes sistemas, APIs, bancos de dados e ferramentas
 
 **Tecnologias utilizadas:**
 
-`Python` `APIs` `Google Sheets` `PostgreSQL` `n8n`
+`Python` `APIs` `PostgreSQL` `Supabase` `n8n` `Webhooks`
 
 ---
 
@@ -198,12 +240,10 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 ![Inteligência Artificial](https://img.shields.io/badge/-Intelig%C3%AAncia_Artificial-2B2D42?style=flat-square)
 ![IA Generativa](https://img.shields.io/badge/-IA_Generativa-2B2D42?style=flat-square)
 ![Agentes de IA](https://img.shields.io/badge/-Agentes_de_IA-2B2D42?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-2B2D42?style=flat-square)
-<br/>
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-2B2D42?style=flat-square) <br/>
 ![Automação de Processos](https://img.shields.io/badge/-Automa%C3%A7%C3%A3o_de_Processos-2B2D42?style=flat-square)
 ![Desenvolvimento Python](https://img.shields.io/badge/-Desenvolvimento_Python-2B2D42?style=flat-square)
-![Integração de APIs](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o_de_APIs-2B2D42?style=flat-square)
-<br/>
+![Integração de APIs](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o_de_APIs-2B2D42?style=flat-square) <br/>
 ![Cloud & IA](https://img.shields.io/badge/-Cloud_%26_IA-2B2D42?style=flat-square)
 ![Soluções de IA para Empresas](https://img.shields.io/badge/-Solu%C3%A7%C3%B5es_de_IA_para_Empresas-2B2D42?style=flat-square)
 
@@ -215,14 +255,13 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo\&theme=tokyonight\&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo\&theme=tokyo-night\&hide_border=true)
 
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -236,9 +275,9 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato@renatoaqueiroz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renato-queiroz-876ba518b)
-[![GitHub](https://img.shields.io/badge/GitHub-renatwo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatwo)
+[![Email](https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renato@renatoaqueiroz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/renato-queiroz-876ba518b)
+[![GitHub](https://img.shields.io/badge/GitHub-renatwo-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/renatwo)
 
 </div>
 
