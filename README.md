@@ -143,6 +143,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge\&logo=hostinger\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge\&logo=render\&logoColor=white)
 
 ---
 
@@ -187,7 +188,7 @@ A Highland Automation nasceu com o objetivo de transformar processos manuais e r
 
 ### 🛠️ Tecnologias utilizadas
 
-`n8n` `Supabase` `PostgreSQL` `Redis` `Evolution API` `OpenAI` `Google Vertex AI` `Lovable` `Docker` `Hostinger` `REST APIs` `Webhooks`
+`n8n` `Supabase` `PostgreSQL` `Redis` `Evolution API` `OpenAI` `Google Vertex AI` `Lovable` `Docker` `Hostinger` `Render` `REST APIs` `Webhooks`
 
 ---
 
