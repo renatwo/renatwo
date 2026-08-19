@@ -119,13 +119,15 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ## 🛠️ Desenvolvimento & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" height="48" alt="Ferramentas de desenvolvimento"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,pycharm,idea" height="48" alt="Ferramentas de desenvolvimento"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lovable.svg" height="48" alt="Lovable"/>
 </p>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
