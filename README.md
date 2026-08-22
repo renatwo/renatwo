@@ -251,3 +251,50 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 ![Soluções de IA para Empresas](https://img.shields.io/badge/-Solu%C3%A7%C3%B5es_de_IA_para_Empresas-2B2D42?style=flat-square)
 
 </div>
+
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 📫 Vamos conectar?
+
+Estou aberto a oportunidades de **estágio, projetos freelance ou colaborações** na área de IA e Automação.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato@renatoaqueiroz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renato-queiroz-876ba518b)
+[![GitHub](https://img.shields.io/badge/GitHub-renatwo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatwo)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Construindo minha carreira em Inteligência Artificial, Automação e Desenvolvimento.
+
+> Transformando processos manuais em soluções inteligentes com **IA, automação e tecnologia**.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
