@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding animation"/>
+
+</div>
+
 👋 Olá, eu sou Renato Queiroz
 
 🎓 Estudante de Inteligência Artificial Aplicada na PUCPR
@@ -281,4 +287,4 @@ Transformando processos manuais em soluções inteligentes com IA, automação e
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=fo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150
