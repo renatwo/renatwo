@@ -1,35 +1,18 @@
-<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg" alt="Top decoration"/>
-
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/status-construindo-brightgreen.svg" alt="Status"/>
-  <img src="https://img.shields.io/badge/foco-IA%20%26%20Automa%C3%A7%C3%A3o-8E75B2.svg" alt="Foco"/>
-  <img src="https://img.shields.io/github/followers/renatwo?style=flat&logo=github&label=followers&color=D97757" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=renatwo&color=6C63FF&style=flat&label=visitas" alt="Profile Views"/>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=D97757&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz+%F0%9F%91%8B;Estudante+de+IA+Aplicada+na+PUCPR+%F0%9F%8E%93;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Python+%7C+APIs+%7C+Agentes+de+IA+%7C+Automa%C3%A7%C3%A3o+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=D97757&center=true&vCenter=true&width=950&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz+%F0%9F%91%8B;Estudante+de+IA+Aplicada+na+PUCPR+%F0%9F%8E%93;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Python+%7C+APIs+%7C+Agentes+de+IA+%7C+Automa%C3%A7%C3%A3o+%F0%9F%90%8D" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,postgres,redis,docker,git,github,vscode" height="48" alt="Principais tecnologias"/>
+
+
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="42" alt="OpenAI"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42" alt="n8n"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="42" alt="Supabase"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="42" alt="Gemini"/>
-
-<br/><br/>
-
-🤖 IA Aplicada   •   ⚙️ Automação   •   🐍 Python   •   🔗 Integrações
+🤖 IA Aplicada    •    ⚙️ Automação    •    🐍 Python    •    🔗 APIs
 
 </div>
+
 <br/>
 
 👋 Quem sou eu
@@ -77,7 +60,9 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-💻 Stack Tecnológica
+💻 STACK TECNOLÓGICA
+
+Tecnologias e ferramentas que utilizo nos meus estudos e projetos.
 
 👨‍💻 Linguagens
 
@@ -97,7 +82,7 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 ⚡ Backend, APIs & Integrações
 
@@ -117,7 +102,7 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 🤖 Inteligência Artificial & LLMs
 
@@ -143,7 +128,7 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 ⚙️ Automação & Integrações
 
@@ -168,7 +153,7 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 🗄️ Banco de Dados
 
@@ -191,7 +176,7 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 🛠️ Desenvolvimento & Ferramentas
 
@@ -218,7 +203,7 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 ☁️ Cloud & Hospedagem
 
@@ -237,7 +222,7 @@ Atualmente estou em transição de carreira para a área de tecnologia e constru
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 💼 Plataformas Empresariais
 
@@ -283,9 +268,11 @@ CRM • Gestão Comercial • Automação de Processos • Administração da Pl
 
 <br/>
 
-🏔️ Highland Automation
+🏔️ HIGHLAND AUTOMATION
 
-A Highland Automation é meu projeto autoral voltado ao desenvolvimento de soluções com Inteligência Artificial, automação e integração de sistemas para empresas.
+Meu projeto autoral de IA & Automação
+
+A Highland Automation é o espaço onde reúno e desenvolvo soluções com Inteligência Artificial, automação e integração de sistemas para empresas.
 
 A proposta é transformar processos manuais e repetitivos em soluções digitais mais eficientes, reunindo projetos como:
 
@@ -311,7 +298,9 @@ n8n Supabase PostgreSQL Redis Evolution API OpenAI Google Vertex AI Lovable Dock
 
 <br/>
 
-📂 Projetos
+🚀 PROJETOS EM DESTAQUE
+
+Projetos práticos onde aplico IA, automação, APIs e integração de sistemas.
 
 🤖 Sistema Inteligente de Agendamento
 
@@ -322,7 +311,7 @@ IA WhatsApp n8n APIs Supabase PostgreSQL Automação
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 💬 Bot Inteligente para WhatsApp
 
@@ -333,7 +322,7 @@ Evolution API OpenAI n8n APIs REST Webhooks
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 🔄 Integrações Inteligentes
 
@@ -344,7 +333,7 @@ Python APIs PostgreSQL Supabase n8n Webhooks
 
 <br/>
 
-───────────────────────────────
+<br/>
 
 📈 Automações Empresariais
 
@@ -375,7 +364,7 @@ n8n IA APIs Automação
 
 <br/>
 
-📊 Linguagens mais utilizadas no GitHub
+📊 LINGUAGENS MAIS UTILIZADAS NO GITHUB
 
 <div align="center">
 
@@ -391,7 +380,7 @@ n8n IA APIs Automação
 
 <br/>
 
-📈 GitHub Activity
+📈 ATIVIDADE NO GITHUB
 
 <div align="center">
 
@@ -409,7 +398,7 @@ n8n IA APIs Automação
 
 <br/>
 
-🐍 Gráfico de Contribuições
+🐍 CONTRIBUIÇÕES
 
 <div align="center">
 
@@ -419,7 +408,7 @@ n8n IA APIs Automação
 
 <br/>
 
-📫 Vamos conectar?
+📫 VAMOS CONECTAR?
 
 Estou aberto a oportunidades de estágio, projetos freelance ou colaborações na área de IA e Automação.
 
@@ -434,5 +423,3 @@ Estou aberto a oportunidades de estágio, projetos freelance ou colaborações n
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8E75B2&center=true&vCenter=true&width=820&lines=Construindo+minha+carreira+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Transformando+processos+em+solu%C3%A7%C3%B5es+inteligentes+%E2%9A%A1;Sempre+aprendendo.+Sempre+construindo.+%F0%9F%9A%80" alt="Typing footer"/>
 
 </div>
-
-<img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg" alt="Bottom decoration"/>
