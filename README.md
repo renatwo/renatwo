@@ -1,24 +1,45 @@
-👋 Sobre mim
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=900&color=D97757&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz+%F0%9F%91%8B;Estudante+de+IA+Aplicada+na+PUCPR+%F0%9F%8E%93;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96;Python+%7C+APIs+%7C+Agentes+de+IA+%7C+Automa%C3%A7%C3%A3o+%F0%9F%90%8D;Transformando+processos+em+solu%C3%A7%C3%B5es+inteligentes+%E2%9A%A1" alt="Typing SVG" />
+
+<br/><br/>
+
+🤖 IA Aplicada • ⚙️ Automação • 🐍 Python • 🔗 Integrações
+
+<br/>
+
+
+
+
+</div>
+
+👨‍💻 Quem sou eu
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 🎓 Estudante de Inteligência Artificial Aplicada na PUCPR
 
-🤖 Focado em Inteligência Artificial, automação de processos, agentes de IA e integração de sistemas.
+🤖 Apaixonado por Inteligência Artificial, automação de processos e desenvolvimento de soluções que resolvem problemas reais.
 
-🐍 Construo projetos práticos utilizando Python, APIs, bancos de dados, LLMs e automações inteligentes.
+🐍 Desenvolvo projetos utilizando Python, APIs, bancos de dados, LLMs, agentes de IA e automações inteligentes.
 
-💼 Estou em transição de carreira para Tecnologia, aplicando minha experiência profissional na criação de soluções que resolvem problemas reais de negócios.
+💼 Estou construindo minha carreira em Tecnologia e IA, unindo conhecimento técnico com experiência de negócios.
 
-🎯 Meu objetivo é desenvolver soluções que reduzam tarefas manuais, aumentem a produtividade e gerem resultados por meio da tecnologia.
+🎯 Meu foco é criar soluções que economizem tempo, reduzam tarefas manuais e aumentem a produtividade.
 
-🔭 Atualmente desenvolvendo Agentes de IA, automações e aplicações inteligentes
+</td>
 
-🌱 Estudando IA Generativa, AI Agents, FastAPI, Machine Learning e integrações
+<td width="38%" align="center">
 
-💬 Interesses: Python, IA, automação, APIs, agentes e sistemas inteligentes
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding animation"/>
 
-💼 Aberto a oportunidades de Estágio, Júnior, projetos e colaborações em Tecnologia
-
-🚀 O que estou construindo
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -28,36 +49,33 @@
 
 
 
-
 </div>
 
-🤖 Agentes de IA integrados a canais como WhatsApp
+🚀 Atualmente
 
-⚙️ Automação de processos empresariais
+🔭 Desenvolvendo Agentes de IA, automações e sistemas inteligentes
 
-🔗 Integrações entre APIs, sistemas e bancos de dados
+🌱 Estudando IA Generativa, AI Agents, FastAPI, Machine Learning e integrações
 
-📅 Sistemas inteligentes de agendamento e CRM
+🧠 Explorando RAG, LLMs, Context Engineering e automação empresarial
 
-🧠 Aplicações com LLMs e RAG
-
-📊 Soluções para análise e produtividade empresarial
-
-🌐 Aplicações web utilizando Python e APIs
+💼 Aberto a oportunidades de Estágio, Júnior, projetos e colaborações em Tecnologia
 
 💻 Tech Stack
 
+<div align="center">
+
 🤖 Inteligência Artificial & LLMs
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="45" alt="OpenAI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="45" alt="Claude"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="48" alt="OpenAI"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain"/>
+
+<br/><br/>
 
 
 
@@ -69,13 +87,13 @@
 
 ⚙️ Automação & Integrações
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="45" alt="n8n"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="45" alt="Zapier"/>
-</p>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="48" alt="WhatsApp"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/zapier/FF4A00" height="48" alt="Zapier"/>
+
+<br/><br/>
 
 
 
@@ -84,12 +102,11 @@
 
 
 
+🐍 Linguagens & Backend
 
-🐍 Backend & Linguagens
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,fastapi" height="50" alt="Python, Java, JavaScript, HTML e FastAPI"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,fastapi" height="48" alt="Python, Java, JavaScript, HTML e FastAPI"/>
-</p>
+<br/><br/>
 
 
 
@@ -100,11 +117,11 @@
 
 🗄️ Bancos de Dados
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="48" alt="PostgreSQL, MySQL e Redis"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="48" alt="Supabase"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="50" alt="PostgreSQL, MySQL e Redis"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase"/>
+
+<br/><br/>
 
 
 
@@ -113,25 +130,11 @@
 
 
 
-☁️ Cloud, DevOps & Hospedagem
+☁️ Cloud, DevOps & Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,azure,linux" height="48" alt="Docker, Google Cloud, Azure e Linux"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,gcp,azure,linux,git,github,vscode,pycharm,idea,postman" height="50" alt="Cloud, DevOps e ferramentas"/>
 
-
-
-
-
-
-
-🛠️ Desenvolvimento & Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,postman" height="48" alt="Git, GitHub, VS Code, PyCharm, IntelliJ e Postman"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lovable.svg" height="48" alt="Lovable"/>
-</p>
+<br/><br/>
 
 
 
@@ -140,57 +143,66 @@
 
 
 
+
+
+
+</div>
 
 🌟 Projetos em destaque
 
-💈 SaaS de Agendamento + CRM + Agente de IA
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Sistema multiempresa para gerenciamento de agendamentos, CRM e atendimento automatizado através do WhatsApp.
+💈 SaaS de Agendamento + CRM + IA
 
-IA WhatsApp n8n Supabase PostgreSQL APIs Webhooks
+Sistema multiempresa com agendamento, CRM e agente de IA integrado ao WhatsApp.
+
+IA WhatsApp n8n Supabase PostgreSQL
+
+</td>
+<td width="50%" valign="top">
 
 🚚 Otimizador Inteligente de Rotas
 
-Solução que recebe endereços de entregas, consulta APIs de mapas e organiza uma sequência otimizada para apoiar operações logísticas.
+Automação para organizar entregas utilizando endereços, APIs de mapas e otimização de rotas.
 
-Google Maps API Automação IA APIs Planilhas
+Google Maps API IA Automação APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 📚 Assistentes com RAG
 
-Aplicações capazes de consultar bases de conhecimento e utilizar contexto recuperado para gerar respostas mais relevantes com modelos de linguagem.
+Aplicações que consultam uma base de conhecimento e utilizam contexto recuperado para responder com LLMs.
 
-Python RAG LLMs APIs Banco de Dados
+Python RAG LLMs APIs
 
-🌦️ Agente de IA para Previsão do Tempo
+</td>
+<td width="50%" valign="top">
 
-Agente integrado ao WhatsApp que consulta informações meteorológicas via API e gera respostas automaticamente.
+🌦️ Agente de Previsão do Tempo
 
-n8n OpenWeather API Evolution API WhatsApp IA
+Agente de IA integrado ao WhatsApp para consultar dados meteorológicos e responder automaticamente.
 
-🐍 Aplicações Python + IA
+n8n OpenWeather Evolution API IA
 
-Projetos experimentais e educacionais combinando Python, Streamlit, APIs de LLMs e interfaces interativas.
-
-Python Streamlit Groq APIs LLMs
+</td>
+</tr>
+</table>
 
 🏢 Highland Automation
 
-Projeto autoral voltado à criação de soluções de Inteligência Artificial, automação e integração de sistemas para empresas.
-
-Transformando processos manuais e repetitivos em soluções digitais mais eficientes.
-
-Principais áreas: agentes de IA • WhatsApp • automação de atendimento • agendamento • CRM • APIs • bancos de dados • dashboards.
-
-📚 Atualmente estudando
-
 <div align="center">
 
+🤖 Soluções com IA • ⚙️ Automação • 🔗 Integração de Sistemas
 
+Projeto autoral voltado ao desenvolvimento de soluções que transformam processos manuais e repetitivos em fluxos digitais mais eficientes.
 
-
-
-
-
+n8n Supabase PostgreSQL Redis Evolution API OpenAI Vertex AI Lovable Docker Render
 
 </div>
 
@@ -202,11 +214,7 @@ Principais áreas: agentes de IA • WhatsApp • automação de atendimento •
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatwo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
-</div>
-
-Nota: o gráfico de linguagens representa a distribuição de código detectada nos repositórios do GitHub, e não o nível de domínio de cada tecnologia.
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
@@ -215,6 +223,8 @@ Nota: o gráfico de linguagens representa a distribuição de código detectada 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
+
+📌 O gráfico de linguagens mostra a distribuição de código detectada nos seus repositórios públicos e não representa, necessariamente, o nível de domínio de cada tecnologia.
 
 🐍 Minhas contribuições
 
@@ -243,8 +253,6 @@ Nota: o gráfico de linguagens representa a distribuição de código detectada 
 
 💼 Aberto a oportunidades em IA, Automação e Tecnologia
 
-Estou construindo minha carreira em tecnologia através de projetos práticos, estudo contínuo e desenvolvimento de soluções para problemas reais.
-
 <br/>
 
 
@@ -253,9 +261,7 @@ Estou construindo minha carreira em tecnologia através de projetos práticos, e
 
 <br/><br/>
 
-🚀 Inteligência Artificial • Automação • Python • Integração de Sistemas
-
-Transformando ideias e processos em soluções inteligentes.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8E75B2&center=true&vCenter=true&width=800&lines=Construindo+minha+carreira+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Automatizando+processos+com+tecnologia+%E2%9A%A1;Sempre+aprendendo.+Sempre+construindo.+%F0%9F%9A%80" alt="Typing footer"/>
 
 </div>
 
