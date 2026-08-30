@@ -261,9 +261,9 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="195" src="https://github-stats-extended.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatwo&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+<img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renatwo&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
@@ -279,7 +279,7 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true&cache_seconds=1800)
 
 </div>
 
