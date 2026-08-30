@@ -156,6 +156,16 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 
 ---
 
+# 🏅 Certificações
+
+<div align="center">
+
+[![Build Real World AI Applications with Gemini and Imagen](https://img.shields.io/badge/Google_Cloud-Build_Real_World_AI_Apps_with_Gemini_%26_Imagen-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/0c9de6a5-9497-4eb3-8260-8a5bc739c154/public_url)
+
+</div>
+
+---
+
 # 📚 Atualmente estudando
 
 * 🧠 Inteligência Artificial Generativa
