@@ -73,7 +73,6 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="44" alt="OpenAI"/>
   <img src="https://cdn.simpleicons.org/anthropic/D97757" height="44" alt="Claude"/>
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="44" alt="Google AI"/>
-  <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/images/crewai_logo.png" height="44" alt="CrewAI"/>
 </p>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
@@ -82,7 +81,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
-![CrewAI](https://img.shields.io/badge/👥_CrewAI-Multi--Agent_AI-FF5A50?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/👥_CrewAI-Multi_Agent_AI-FF5A50?style=for-the-badge)
 
 ---
 
@@ -258,9 +257,27 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 # 📊 GitHub Activity
 
+### 📊 Estatísticas & Linguagens
+
+<div align="center">
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatwo&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+
+</div>
+
+### 🔥 Sequência de Contribuições
+
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+### 📈 Histórico de Atividade
+
+<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo\&theme=tokyo-night\&hide_border=true)
 
