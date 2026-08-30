@@ -275,14 +275,6 @@ Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimiza
 
 </div>
 
-### 📈 Histórico de Atividade
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=renatwo&theme=tokyo-night&hide_border=true&cache_seconds=1800)
-
-</div>
-
 ---
 
 <div align="center">
