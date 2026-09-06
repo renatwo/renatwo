@@ -17,7 +17,7 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge&color=D97757&logo=github&logoColor=white&labelColor=181717)
+![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge&color=D97757&logo=github&logoColor=white)
 
 </div>
 
@@ -161,6 +161,10 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 <div align="center">
 
 [<img src="https://images.credly.com/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob" height="150" alt="Build Real World AI Applications with Gemini and Imagen"/>](https://www.credly.com/badges/0c9de6a5-9497-4eb3-8260-8a5bc739c154/public_url)
+[<img src="https://cdn.qwiklabs.com/Ec0TSJNh7EFrWqYCyCJQmcuEeXh2KQhWIhYkMv3SuYs%3D" height="150" alt="Gemini for Application Developers"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24216432)
+[<img src="https://cdn.qwiklabs.com/w08Qy7b1VOOPaieflHPtrilBC6kuMyrY9Vvs2BbZndE%3D" height="150" alt="Vibe Coding for Beginners: From Zero to App"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24559726)
+[<img src="https://cdn.qwiklabs.com/vRDTuK%2BEWvMNr%2BRMjnXhrxqum6X%2FfUuYurBBS3Cqf%2B0%3D" height="150" alt="Introduction to Vertex AI Studio"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/22280112)
+[<img src="https://cdn.qwiklabs.com/7xFCpXl6c41wp0LLllrB7TUvpcYBIcfIbPMjsKESjGQ%3D" height="150" alt="Introduction to AI Agents"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24210745)
 
 </div>
 
