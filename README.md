@@ -8,11 +8,11 @@
 
 🎓 Estudante de **Inteligência Artificial Aplicada na PUCPR**
 
-Sou apaixonado por **Inteligência Artificial, automação de processos e desenvolvimento de soluções** que geram resultados reais para empresas.
+Sou apaixonado por **Inteligência Artificial, automação de processos e desenvolvimento de soluções** que entregam resultados reais para empresas.
 
-Atualmente estou em **transição de carreira para a área de tecnologia** e construindo projetos práticos utilizando **IA, Python, APIs, bancos de dados e automações inteligentes**.
+Estou em **transição de carreira para a área de tecnologia**, construindo projetos práticos com **IA, Python, APIs, bancos de dados e automações inteligentes**.
 
-🎯 Meu objetivo é desenvolver soluções que **economizem tempo, aumentem a produtividade e ajudem empresas a crescer por meio da Inteligência Artificial**.
+🎯 Meu objetivo é criar soluções que **economizem tempo, aumentem a produtividade e ajudem empresas a crescer por meio da Inteligência Artificial**.
 
 <div align="center">
 
@@ -27,9 +27,9 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 
 * 🤖 Agentes de IA para WhatsApp
 * ⚙️ Automações inteligentes com n8n
-* 🧠 Aplicações utilizando modelos de IA
-* 📅 Sistemas inteligentes de agendamento
-* 🔗 Integrações entre APIs
+* 🧠 Aplicações com modelos de IA generativa
+* 📅 Sistemas de agendamento automatizado
+* 🔗 Integrações entre APIs e sistemas
 * 💬 Bots conversacionais
 * 📊 Automação de processos empresariais
 * 🗄️ Integração com bancos de dados
@@ -188,9 +188,9 @@ Atualmente estou em **transição de carreira para a área de tecnologia** e con
 
 # 🏢 Highland Automation
 
-Projeto autoral voltado ao desenvolvimento de **soluções com Inteligência Artificial, automação e integração de sistemas para empresas**.
+Projeto autoral dedicado ao desenvolvimento de **soluções com Inteligência Artificial, automação e integração de sistemas para empresas**.
 
-A Highland Automation nasceu com o objetivo de transformar processos manuais e repetitivos em soluções digitais mais eficientes, utilizando **IA, automações, APIs e sistemas inteligentes**.
+A Highland Automation nasceu com o propósito de transformar processos manuais e repetitivos em soluções digitais mais eficientes, combinando **IA, automações, APIs e sistemas inteligentes**.
 
 ### 🚀 Soluções desenvolvidas
 
@@ -213,7 +213,7 @@ A Highland Automation nasceu com o objetivo de transformar processos manuais e r
 
 ## 🤖 Sistema Inteligente de Agendamento
 
-Assistente de IA integrado ao **WhatsApp**, capaz de realizar agendamentos, responder perguntas e automatizar atendimentos.
+Assistente de IA integrado ao **WhatsApp** que realiza agendamentos, responde dúvidas dos clientes e automatiza o atendimento de ponta a ponta.
 
 **Tecnologias utilizadas:**
 
@@ -223,7 +223,7 @@ Assistente de IA integrado ao **WhatsApp**, capaz de realizar agendamentos, resp
 
 ## 💬 Bot Inteligente para WhatsApp
 
-Bot integrado à **Evolution API e modelos de Inteligência Artificial**, desenvolvido para automatizar atendimentos e criar interações inteligentes com usuários.
+Bot conversacional construído sobre a **Evolution API** e modelos de IA, criado para automatizar atendimentos e conduzir interações mais naturais com os usuários.
 
 **Tecnologias utilizadas:**
 
@@ -233,7 +233,7 @@ Bot integrado à **Evolution API e modelos de Inteligência Artificial**, desenv
 
 ## 🔄 Integrações Inteligentes
 
-Automações conectando diferentes sistemas, APIs, bancos de dados e ferramentas para eliminar tarefas repetitivas e melhorar processos.
+Automações que conectam sistemas, APIs, bancos de dados e ferramentas distintas, eliminando tarefas repetitivas e melhorando o fluxo de trabalho entre plataformas.
 
 **Tecnologias utilizadas:**
 
@@ -243,7 +243,7 @@ Automações conectando diferentes sistemas, APIs, bancos de dados e ferramentas
 
 ## 📈 Automações Empresariais
 
-Desenvolvimento de fluxos automatizados para reduzir atividades manuais, otimizar processos internos e aumentar a eficiência operacional.
+Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiência operacional e dar mais previsibilidade aos processos internos das empresas.
 
 **Tecnologias utilizadas:**
 
