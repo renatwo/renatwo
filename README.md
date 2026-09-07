@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IA%20Aplicada%20%26%20Automa%C3%A7%C3%A3o%20de%20Processos&descAlign=50&descAlignY=55&descSize=18&stroke=D97757&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IA%20Aplicada%20e%20Automa%C3%A7%C3%A3o%20de%20Processos&descAlign=50&descAlignY=55&descSize=18&stroke=D97757&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Construindo+solu%C3%A7%C3%B5es+com+IA+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <br/>
 
@@ -199,9 +199,14 @@ A Highland Automation nasceu com o propósito de transformar processos manuais e
 
 **🚀 Soluções desenvolvidas**
 
-🤖 Agentes de IA integrados ao WhatsApp&nbsp;&nbsp;·&nbsp;&nbsp;📅 Sistemas inteligentes de agendamento&nbsp;&nbsp;·&nbsp;&nbsp;💬 Automação de atendimento ao cliente
-⚙️ Automação de processos empresariais&nbsp;&nbsp;·&nbsp;&nbsp;🔗 Integrações entre APIs e sistemas&nbsp;&nbsp;·&nbsp;&nbsp;🗄️ Integração com bancos de dados
-🧠 Assistentes inteligentes com IA&nbsp;&nbsp;·&nbsp;&nbsp;📊 Sistemas administrativos e dashboards
+* Agentes de IA integrados ao WhatsApp
+* Sistemas inteligentes de agendamento
+* Automação de atendimento ao cliente
+* Automação de processos empresariais
+* Integrações entre APIs e sistemas
+* Integração com bancos de dados
+* Assistentes inteligentes com IA
+* Sistemas administrativos e dashboards
 
 **🛠️ Tecnologias utilizadas**
 
@@ -212,19 +217,19 @@ A Highland Automation nasceu com o propósito de transformar processos manuais e
 ## 📂 Projetos
 
 ### 🤖 Sistema Inteligente de Agendamento
-Assistente de IA integrado ao **WhatsApp** que realiza agendamentos, responde dúvidas dos clientes e automatiza o atendimento de ponta a ponta.
+Assistente de IA integrado ao **WhatsApp** que realiza agendamentos, responde dúvidas dos clientes e automatiza o atendimento de ponta a ponta.  
 `IA` `WhatsApp` `n8n` `APIs` `Supabase` `PostgreSQL` `Automação`
 
 ### 💬 Bot Inteligente para WhatsApp
-Bot conversacional construído sobre a **Evolution API** e modelos de IA, criado para automatizar atendimentos e conduzir interações mais naturais com os usuários.
+Bot conversacional construído sobre a **Evolution API** e modelos de IA, criado para automatizar atendimentos e conduzir interações mais naturais com os usuários.  
 `Evolution API` `OpenAI` `n8n` `APIs REST` `Webhooks`
 
 ### 🔄 Integrações Inteligentes
-Automações que conectam sistemas, APIs, bancos de dados e ferramentas distintas, eliminando tarefas repetitivas e melhorando o fluxo de trabalho entre plataformas.
+Automações que conectam sistemas, APIs, bancos de dados e ferramentas distintas, eliminando tarefas repetitivas e melhorando o fluxo de trabalho entre plataformas.  
 `Python` `APIs` `PostgreSQL` `Supabase` `n8n` `Webhooks`
 
 ### 📈 Automações Empresariais
-Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiência operacional e dar mais previsibilidade aos processos internos das empresas.
+Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiência operacional e dar mais previsibilidade aos processos internos das empresas.  
 `n8n` `IA` `APIs` `Automação`
 
 <br/>
