@@ -312,4 +312,4 @@ Transformando processos manuais em soluções inteligentes com IA, automação e
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:3A2036,100:0D1117&height=150&section=foote
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:3A2036,100:0D1117&height=150&section=footer" />
