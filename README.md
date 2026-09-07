@@ -24,7 +24,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 > [!TIP]
 > ### 🎯 Meu objetivo
-> Criar soluções de **Inteligência Artificial e automação** que geram resultado real para o negócio — reduzindo tempo operacional, eliminando tarefas repetitivas e dando às empresas mais previsibilidade para crescer.
+> Criar soluções de **Inteligência Artificial e automação** que geram resultado real para o negócio, reduzindo tempo operacional, eliminando tarefas repetitivas e dando às empresas mais previsibilidade para crescer.
 
 <br/>
 
