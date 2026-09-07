@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IA%20Aplicada%20%7C%20Automa%C3%A7%C3%A3o%20de%20Processos%20%7C%20Solu%C3%A7%C3%B5es%20para%20Empresas&descAlign=50&descAlignY=55&descSize=18&stroke=D97757&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IA%20Aplicada%20%26%20Automa%C3%A7%C3%A3o%20de%20Processos&descAlign=50&descAlignY=55&descSize=18&stroke=D97757&strokeWidth=1" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 
