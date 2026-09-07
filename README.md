@@ -24,7 +24,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 > [!TIP]
 > ### 🎯 Meu objetivo
-> Criar soluções de **Inteligência Artificial e automação** que geram resultado real para o negócio — reduzindo tempo operacional, eliminando tarefas repetitivas e dando às empresas mais previsibilidade para crescer.
+> Criar soluções de **Inteligência Artificial e automação** que geram resultado real para o negócio, reduzindo tempo operacional, eliminando tarefas repetitivas e dando às empresas mais previsibilidade para crescer.
 
 <br/>
 
@@ -238,15 +238,13 @@ Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiên
 
 <div align="center">
 
-![Inteligência Artificial](https://img.shields.io/badge/-Intelig%C3%AAncia_Artificial-2B2D42?style=flat-square)
-![IA Generativa](https://img.shields.io/badge/-IA_Generativa-2B2D42?style=flat-square)
-![Agentes de IA](https://img.shields.io/badge/-Agentes_de_IA-2B2D42?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-2B2D42?style=flat-square)
-![Automação de Processos](https://img.shields.io/badge/-Automa%C3%A7%C3%A3o_de_Processos-2B2D42?style=flat-square)
-![Desenvolvimento Python](https://img.shields.io/badge/-Desenvolvimento_Python-2B2D42?style=flat-square)
-![Integração de APIs](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o_de_APIs-2B2D42?style=flat-square)
-![Cloud & IA](https://img.shields.io/badge/-Cloud_%26_IA-2B2D42?style=flat-square)
-![Soluções de IA para Empresas](https://img.shields.io/badge/-Solu%C3%A7%C3%B5es_de_IA_para_Empresas-2B2D42?style=flat-square)
+![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-2B2D42?style=for-the-badge)
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-2B2D42?style=for-the-badge)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-2B2D42?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2B2D42?style=for-the-badge)
+![Automação de Processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o_de_Processos-2B2D42?style=for-the-badge)
+![Desenvolvimento Python](https://img.shields.io/badge/Desenvolvimento_Python-2B2D42?style=for-the-badge)
+![Cloud & IA](https://img.shields.io/badge/Cloud_%26_IA-2B2D42?style=for-the-badge)
 
 </div>
 
