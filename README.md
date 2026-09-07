@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Renato%20Queiroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IA%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Desenvolvimento&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IA%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Desenvolvimento&descAlign=50&descAlignY=55&descSize=19&stroke=D97757&strokeWidth=1" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 
@@ -32,19 +32,19 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 <tr>
 <td width="50%">
 
-🤖 Agentes de IA para WhatsApp
-⚙️ Automações inteligentes com n8n
-🧠 Aplicações com modelos de IA generativa
-📅 Sistemas de agendamento automatizado
+🤖 &nbsp;Agentes de IA para WhatsApp
+<br/>⚙️ &nbsp;Automações inteligentes com n8n
+<br/>🧠 &nbsp;Aplicações com modelos de IA generativa
+<br/>📅 &nbsp;Sistemas de agendamento automatizado
 
 </td>
 <td width="50%">
 
-🔗 Integrações entre APIs e sistemas
-💬 Bots conversacionais
-📊 Automação de processos empresariais
-🗄️ Integração com bancos de dados
-🌐 Aplicações e sistemas web
+🔗 &nbsp;Integrações entre APIs e sistemas
+<br/>💬 &nbsp;Bots conversacionais
+<br/>📊 &nbsp;Automação de processos empresariais
+<br/>🗄️ &nbsp;Integração com bancos de dados
+<br/>🌐 &nbsp;Aplicações e sistemas web
 
 </td>
 </tr>
@@ -191,21 +191,21 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 <tr>
 <td width="50%">
 
-🧠 Inteligência Artificial Generativa
-🤖 Arquitetura de Agentes de IA
-📊 Machine Learning
-🧩 Prompt Engineering
-🧠 Context Engineering
+🧠 &nbsp;Inteligência Artificial Generativa
+<br/>🤖 &nbsp;Arquitetura de Agentes de IA
+<br/>📊 &nbsp;Machine Learning
+<br/>🧩 &nbsp;Prompt Engineering
+<br/>🧠 &nbsp;Context Engineering
 
 </td>
 <td width="50%">
 
-⚡ FastAPI
-🔗 Integração de APIs
-☁️ Salesforce Administrator
-🏗️ Microsoft Foundry
-⚙️ Automação de Processos
-💻 Desenvolvimento com JavaScript
+⚡ &nbsp;FastAPI
+<br/>🔗 &nbsp;Integração de APIs
+<br/>☁️ &nbsp;Salesforce Administrator
+<br/>🏗️ &nbsp;Microsoft Foundry
+<br/>⚙️ &nbsp;Automação de Processos
+<br/>💻 &nbsp;Desenvolvimento com JavaScript
 
 </td>
 </tr>
@@ -282,10 +282,6 @@ Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiên
 
 <br/><br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=renatwo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
@@ -308,4 +304,4 @@ Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiên
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:3A2036,100:0D1117&height=150&section=footer" />
