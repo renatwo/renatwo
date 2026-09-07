@@ -30,27 +30,15 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 ## 🚀 O que estou desenvolvendo
 
-<table>
-<tr>
-<td width="50%">
-
-🤖 &nbsp;Agentes de IA para WhatsApp
-<br/>⚙️ &nbsp;Automações inteligentes com n8n
-<br/>🧠 &nbsp;Aplicações com modelos de IA generativa
-<br/>📅 &nbsp;Sistemas de agendamento automatizado
-
-</td>
-<td width="50%">
-
-🔗 &nbsp;Integrações entre APIs e sistemas
-<br/>💬 &nbsp;Bots conversacionais
-<br/>📊 &nbsp;Automação de processos empresariais
-<br/>🗄️ &nbsp;Integração com bancos de dados
-<br/>🌐 &nbsp;Aplicações e sistemas web
-
-</td>
-</tr>
-</table>
+* Agentes de IA para WhatsApp
+* Automações inteligentes com n8n
+* Aplicações com modelos de IA generativa
+* Sistemas de agendamento automatizado
+* Integrações entre APIs e sistemas
+* Bots conversacionais
+* Automação de processos empresariais
+* Integração com bancos de dados
+* Aplicações e sistemas web
 
 <br/>
 
@@ -189,29 +177,17 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 ## 📚 Atualmente estudando
 
-<table>
-<tr>
-<td width="50%">
-
-🧠 &nbsp;Inteligência Artificial Generativa
-<br/>🤖 &nbsp;Arquitetura de Agentes de IA
-<br/>📊 &nbsp;Machine Learning
-<br/>🧩 &nbsp;Prompt Engineering
-<br/>🧠 &nbsp;Context Engineering
-
-</td>
-<td width="50%">
-
-⚡ &nbsp;FastAPI
-<br/>🔗 &nbsp;Integração de APIs
-<br/>☁️ &nbsp;Salesforce Administrator
-<br/>🏗️ &nbsp;Microsoft Foundry
-<br/>⚙️ &nbsp;Automação de Processos
-<br/>💻 &nbsp;Desenvolvimento com JavaScript
-
-</td>
-</tr>
-</table>
+* Inteligência Artificial Generativa
+* Arquitetura de Agentes de IA
+* Machine Learning
+* Prompt Engineering
+* Context Engineering
+* FastAPI
+* Integração de APIs
+* Salesforce Administrator
+* Microsoft Foundry
+* Automação de Processos
+* Desenvolvimento com JavaScript
 
 <br/>
 
