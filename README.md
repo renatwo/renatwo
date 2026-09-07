@@ -1,10 +1,20 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Renato%20Queiroz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IA%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Desenvolvimento&descAlignY=55&descSize=18" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Construindo+solu%C3%A7%C3%B5es+com+IA+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Dispon%C3%ADvel-D97757?style=for-the-badge&logo=linkedin&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge&color=D97757&logo=github&logoColor=white)
 
 </div>
 
-# 👋 Olá, eu sou Renato Queiroz
+<br/>
+
+## 🧭 Sobre mim
 
 🎓 Estudante de **Inteligência Artificial Aplicada na PUCPR**
 
@@ -12,34 +22,39 @@ Sou apaixonado por **Inteligência Artificial, automação de processos e desenv
 
 Estou em **transição de carreira para a área de tecnologia**, construindo projetos práticos com **IA, Python, APIs, bancos de dados e automações inteligentes**.
 
-🎯 Meu objetivo é criar soluções que **economizem tempo, aumentem a produtividade e ajudem empresas a crescer por meio da Inteligência Artificial**.
+> 🎯 **Meu objetivo:** criar soluções que economizem tempo, aumentem a produtividade e ajudem empresas a crescer por meio da Inteligência Artificial.
 
-<div align="center">
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge&color=D97757&logo=github&logoColor=white)
+## 🚀 O que estou desenvolvendo
 
-</div>
+<table>
+<tr>
+<td width="50%">
 
----
+🤖 Agentes de IA para WhatsApp
+⚙️ Automações inteligentes com n8n
+🧠 Aplicações com modelos de IA generativa
+📅 Sistemas de agendamento automatizado
 
-# 🚀 O que estou desenvolvendo
+</td>
+<td width="50%">
 
-* 🤖 Agentes de IA para WhatsApp
-* ⚙️ Automações inteligentes com n8n
-* 🧠 Aplicações com modelos de IA generativa
-* 📅 Sistemas de agendamento automatizado
-* 🔗 Integrações entre APIs e sistemas
-* 💬 Bots conversacionais
-* 📊 Automação de processos empresariais
-* 🗄️ Integração com bancos de dados
-* 🌐 Aplicações e sistemas web
+🔗 Integrações entre APIs e sistemas
+💬 Bots conversacionais
+📊 Automação de processos empresariais
+🗄️ Integração com bancos de dados
+🌐 Aplicações e sistemas web
 
----
+</td>
+</tr>
+</table>
 
-# 💻 Stack Tecnológica
+<br/>
 
-## 👨‍💻 Linguagens
+## 💻 Stack Tecnológica
+
+### 👨‍💻 Linguagens
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html" height="48" alt="Python, Java, JavaScript e HTML"/>
@@ -51,9 +66,9 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+<br/>
 
-## ⚡ Backend, APIs & Integrações
+### ⚡ Backend, APIs & Integrações
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,postman" height="48" alt="FastAPI e Postman"/>
@@ -65,9 +80,9 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<br/>
 
-## 🤖 Inteligência Artificial & LLMs
+### 🤖 Inteligência Artificial & LLMs
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="44" alt="OpenAI"/>
@@ -83,9 +98,9 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/👥_CrewAI-Multi_Agent_AI-FF5A50?style=for-the-badge)
 
----
+<br/>
 
-## ⚙️ Automação & Integrações
+### ⚙️ Automação & Integrações
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="44" alt="n8n"/>
@@ -100,9 +115,9 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![Zapier](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Dify](https://img.shields.io/badge/Dify-1C1C1C?style=for-the-badge&logoColor=white)
 
----
+<br/>
 
-## 🗄️ Banco de Dados
+### 🗄️ Banco de Dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="48" alt="PostgreSQL, MySQL e Redis"/>
@@ -115,9 +130,9 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+<br/>
 
-## 🛠️ Desenvolvimento & Ferramentas
+### 🛠️ Desenvolvimento & Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,pycharm,idea" height="48" alt="Ferramentas de desenvolvimento"/>
@@ -135,9 +150,9 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge&logoColor=white)
 
----
+<br/>
 
-## ☁️ Cloud & Hospedagem
+### ☁️ Cloud & Hospedagem
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,azure" height="48" alt="Google Cloud e Microsoft Azure"/>
@@ -148,15 +163,15 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
----
+<br/>
 
-## 💼 Plataformas Empresariais
+### 💼 Plataformas Empresariais
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
----
+<br/>
 
-# 🏅 Certificações
+## 🏅 Certificações
 
 <div align="center">
 
@@ -168,152 +183,124 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 </div>
 
----
+<br/>
 
-# 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
-* 🧠 Inteligência Artificial Generativa
-* 🤖 Arquitetura de Agentes de IA
-* 📊 Machine Learning
-* 🧩 Prompt Engineering
-* 🧠 Context Engineering
-* ⚡ FastAPI
-* 🔗 Integração de APIs
-* ☁️ Salesforce Administrator
-* 🏗️ Microsoft Foundry
-* ⚙️ Automação de Processos
-* 💻 Desenvolvimento com JavaScript
+<table>
+<tr>
+<td width="50%">
 
----
+🧠 Inteligência Artificial Generativa
+🤖 Arquitetura de Agentes de IA
+📊 Machine Learning
+🧩 Prompt Engineering
+🧠 Context Engineering
 
-# 🏢 Highland Automation
+</td>
+<td width="50%">
+
+⚡ FastAPI
+🔗 Integração de APIs
+☁️ Salesforce Administrator
+🏗️ Microsoft Foundry
+⚙️ Automação de Processos
+💻 Desenvolvimento com JavaScript
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏢 Highland Automation
 
 Projeto autoral dedicado ao desenvolvimento de **soluções com Inteligência Artificial, automação e integração de sistemas para empresas**.
 
 A Highland Automation nasceu com o propósito de transformar processos manuais e repetitivos em soluções digitais mais eficientes, combinando **IA, automações, APIs e sistemas inteligentes**.
 
-### 🚀 Soluções desenvolvidas
+**🚀 Soluções desenvolvidas**
 
-* 🤖 Agentes de IA integrados ao WhatsApp
-* 📅 Sistemas inteligentes de agendamento
-* 💬 Automação de atendimento ao cliente
-* ⚙️ Automação de processos empresariais
-* 🔗 Integrações entre APIs e sistemas
-* 🗄️ Integração com bancos de dados
-* 🧠 Assistentes inteligentes com IA
-* 📊 Sistemas administrativos e dashboards
+🤖 Agentes de IA integrados ao WhatsApp&nbsp;&nbsp;·&nbsp;&nbsp;📅 Sistemas inteligentes de agendamento&nbsp;&nbsp;·&nbsp;&nbsp;💬 Automação de atendimento ao cliente
+⚙️ Automação de processos empresariais&nbsp;&nbsp;·&nbsp;&nbsp;🔗 Integrações entre APIs e sistemas&nbsp;&nbsp;·&nbsp;&nbsp;🗄️ Integração com bancos de dados
+🧠 Assistentes inteligentes com IA&nbsp;&nbsp;·&nbsp;&nbsp;📊 Sistemas administrativos e dashboards
 
-### 🛠️ Tecnologias utilizadas
+**🛠️ Tecnologias utilizadas**
 
 `n8n` `Supabase` `PostgreSQL` `Redis` `Evolution API` `OpenAI` `Google Vertex AI` `Lovable` `Docker` `Hostinger` `Render` `REST APIs` `Webhooks`
 
----
+<br/>
 
-# 📂 Projetos
+## 📂 Projetos
 
-## 🤖 Sistema Inteligente de Agendamento
-
+### 🤖 Sistema Inteligente de Agendamento
 Assistente de IA integrado ao **WhatsApp** que realiza agendamentos, responde dúvidas dos clientes e automatiza o atendimento de ponta a ponta.
-
-**Tecnologias utilizadas:**
-
 `IA` `WhatsApp` `n8n` `APIs` `Supabase` `PostgreSQL` `Automação`
 
----
-
-## 💬 Bot Inteligente para WhatsApp
-
+### 💬 Bot Inteligente para WhatsApp
 Bot conversacional construído sobre a **Evolution API** e modelos de IA, criado para automatizar atendimentos e conduzir interações mais naturais com os usuários.
-
-**Tecnologias utilizadas:**
-
 `Evolution API` `OpenAI` `n8n` `APIs REST` `Webhooks`
 
----
-
-## 🔄 Integrações Inteligentes
-
+### 🔄 Integrações Inteligentes
 Automações que conectam sistemas, APIs, bancos de dados e ferramentas distintas, eliminando tarefas repetitivas e melhorando o fluxo de trabalho entre plataformas.
-
-**Tecnologias utilizadas:**
-
 `Python` `APIs` `PostgreSQL` `Supabase` `n8n` `Webhooks`
 
----
-
-## 📈 Automações Empresariais
-
+### 📈 Automações Empresariais
 Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiência operacional e dar mais previsibilidade aos processos internos das empresas.
-
-**Tecnologias utilizadas:**
-
 `n8n` `IA` `APIs` `Automação`
 
----
+<br/>
 
-# 🎯 Áreas de Interesse
+## 🎯 Áreas de Interesse
 
 <div align="center">
 
 ![Inteligência Artificial](https://img.shields.io/badge/-Intelig%C3%AAncia_Artificial-2B2D42?style=flat-square)
 ![IA Generativa](https://img.shields.io/badge/-IA_Generativa-2B2D42?style=flat-square)
 ![Agentes de IA](https://img.shields.io/badge/-Agentes_de_IA-2B2D42?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-2B2D42?style=flat-square) <br/>
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-2B2D42?style=flat-square)
 ![Automação de Processos](https://img.shields.io/badge/-Automa%C3%A7%C3%A3o_de_Processos-2B2D42?style=flat-square)
 ![Desenvolvimento Python](https://img.shields.io/badge/-Desenvolvimento_Python-2B2D42?style=flat-square)
-![Integração de APIs](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o_de_APIs-2B2D42?style=flat-square) <br/>
+![Integração de APIs](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o_de_APIs-2B2D42?style=flat-square)
 ![Cloud & IA](https://img.shields.io/badge/-Cloud_%26_IA-2B2D42?style=flat-square)
 ![Soluções de IA para Empresas](https://img.shields.io/badge/-Solu%C3%A7%C3%B5es_de_IA_para_Empresas-2B2D42?style=flat-square)
 
 </div>
 
----
+<br/>
 
-# 📊 GitHub Activity
-
-### 📊 Estatísticas & Linguagens
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img height="195" src="https://github-stats-extended.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
-
 <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renatwo&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
 
-</div>
-
-### 🔥 Sequência de Contribuições
-
-<div align="center">
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-</div>
+<br/><br/>
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=renatwo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)
 
-<div align="center">
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
----
+<br/>
 
-# 📫 Contato
+## 📫 Contato
 
 <div align="center">
-
-![Open to Work](https://img.shields.io/badge/Open_to_Work-Dispon%C3%ADvel-D97757?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [![Email](https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato@renatoaqueiroz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renato-queiroz-876ba518b)
 [![GitHub](https://img.shields.io/badge/GitHub-renatwo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatwo)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### 🚀 Construindo minha carreira em Inteligência Artificial, Automação e Desenvolvimento.
 
