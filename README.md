@@ -264,7 +264,7 @@ Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiên
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.s/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
