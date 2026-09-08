@@ -166,7 +166,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 <div align="center">
 
 [<img src="https://images.credly.com/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/linkedin_thumb_blob" height="150" alt="AWS Knowledge: Cloud Essentials - Training Badge"/>](https://www.credly.com/badges/94220a14-98e6-4c37-bb27-a68193b89ccd/public_url)
-[<img src="https://images.credly.com/assets/default_badge.png" height="150" alt="Nova Credly Badge"/>](https://www.credly.com/badges/446420a5-9e32-452e-878b-fbe406798fbc/public_url)
+[<img src="https://images.credly.com/size/680x680/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" height="150" alt="Develop GenAI Apps with Gemini and Streamlit"/>](https://www.credly.com/badges/446420a5-9e32-452e-878b-fbe406798fbc/public_url)
 [<img src="https://cdn.qwiklabs.com/Ec0TSJNh7EFrWqYCyCJQmcuEeXh2KQhWIhYkMv3SuYs%3D" height="150" alt="Gemini for Application Developers"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24216432)
 [<img src="https://cdn.qwiklabs.com/w08Qy7b1VOOPaieflHPtrilBC6kuMyrY9Vvs2BbZndE%3D" height="150" alt="Vibe Coding for Beginners: From Zero to App"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24559726)
 [<img src="https://cdn.qwiklabs.com/vRDTuK%2BEWvMNr%2BRMjnXhrxqum6X%2FfUuYurBBS3Cqf%2B0%3D" height="150" alt="Introduction to Vertex AI Studio"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/22280112)
@@ -218,19 +218,19 @@ A Highland Automation nasceu com o propósito de transformar processos manuais e
 ## 📂 Projetos
 
 ### 🤖 Sistema Inteligente de Agendamento
-Assistente de IA integrado ao **WhatsApp** que realiza agendamentos, responde dúvidas dos clientes e automatiza o atendimento de ponta a ponta.  
+Assistente de IA integrado ao **WhatsApp** que realiza agendamentos, responde dúvidas dos clientes e automatiza o atendimento de ponta a ponta.
 `IA` `WhatsApp` `n8n` `APIs` `Supabase` `PostgreSQL` `Automação`
 
 ### 💬 Bot Inteligente para WhatsApp
-Bot conversacional construído sobre a **Evolution API** e modelos de IA, criado para automatizar atendimentos e conduzir interações mais naturais com os usuários.  
+Bot conversacional construído sobre a **Evolution API** e modelos de IA, criado para automatizar atendimentos e conduzir interações mais naturais com os usuários.
 `Evolution API` `OpenAI` `n8n` `APIs REST` `Webhooks`
 
 ### 🔄 Integrações Inteligentes
-Automações que conectam sistemas, APIs, bancos de dados e ferramentas distintas, eliminando tarefas repetitivas e melhorando o fluxo de trabalho entre plataformas.  
+Automações que conectam sistemas, APIs, bancos de dados e ferramentas distintas, eliminando tarefas repetitivas e melhorando o fluxo de trabalho entre plataformas.
 `Python` `APIs` `PostgreSQL` `Supabase` `n8n` `Webhooks`
 
 ### 📈 Automações Empresariais
-Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiência operacional e dar mais previsibilidade aos processos internos das empresas.  
+Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiência operacional e dar mais previsibilidade aos processos internos das empresas.
 `n8n` `IA` `APIs` `Automação`
 
 <br/>
