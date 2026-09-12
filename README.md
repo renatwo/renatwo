@@ -187,7 +187,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 * Salesforce Administrator
 * Microsoft Foundry
 * Automação de Processos
-* Desenvolvimento com JavaScript
+
 
 <br/>
 
