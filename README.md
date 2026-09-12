@@ -186,7 +186,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 * Integração de APIs
 * Salesforce Administrator
 * Microsoft Foundry
-* Automação de Processos
+* Automação de Processos.
 
 
 <br/>
