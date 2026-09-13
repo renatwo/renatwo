@@ -14,37 +14,35 @@
 
 <br/>
 
-## 🧭 Sobre mim
+## Sobre mim
 
-🎓 Estudante de **Inteligência Artificial Aplicada na PUCPR**
+Estudante de **Inteligência Artificial Aplicada** pela PUCPR, com foco em automação de processos e desenvolvimento de soluções orientadas a resultado para empresas.
 
-Sou apaixonado por **Inteligência Artificial, automação de processos e desenvolvimento de soluções** que entregam resultados reais para empresas.
-
-Estou em **transição de carreira para a área de tecnologia**, construindo projetos práticos com **IA, Python, APIs, bancos de dados e automações inteligentes**.
+Atualmente em **transição de carreira para a área de tecnologia**, aplicando experiência prévia em processos de negócio ao desenvolvimento de projetos práticos com **IA, Python, APIs, bancos de dados e automações inteligentes**.
 
 > [!TIP]
-> ### 🎯 Meu objetivo
-> Criar soluções de **Inteligência Artificial e automação** que geram resultado real para o negócio, reduzindo tempo operacional, eliminando tarefas repetitivas e dando às empresas mais previsibilidade para crescer.
+> ### Objetivo profissional
+> Desenvolver soluções de **Inteligência Artificial e automação** que gerem valor mensurável para o negócio — reduzindo tempo operacional, eliminando tarefas repetitivas e aumentando a previsibilidade dos processos.
 
 <br/>
 
-## 🚀 O que estou desenvolvendo
+## Áreas de atuação
 
 * Agentes de IA para WhatsApp
-* Automações inteligentes com n8n
+* Automações com n8n
 * Aplicações com modelos de IA generativa
 * Sistemas de agendamento automatizado
-* Integrações entre APIs e sistemas
+* Integração entre APIs e sistemas
 * Bots conversacionais
 * Automação de processos empresariais
 * Integração com bancos de dados
-* Aplicações e sistemas web
+* Desenvolvimento de aplicações e sistemas web
 
 <br/>
 
-## 💻 Stack Tecnológica
+## Stack Tecnológica
 
-### 👨‍💻 Linguagens
+### Linguagens
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html" height="48" alt="Python, Java, JavaScript e HTML"/>
@@ -58,7 +56,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 <br/>
 
-### ⚡ Backend, APIs & Integrações
+### Backend, APIs & Integrações
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,postman" height="48" alt="FastAPI e Postman"/>
@@ -72,7 +70,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 <br/>
 
-### 🤖 Inteligência Artificial & LLMs
+### Inteligência Artificial & LLMs
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="44" alt="OpenAI"/>
@@ -86,11 +84,11 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/👥_CrewAI-Multi_Agent_AI-FF5A50?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent_AI-FF5A50?style=for-the-badge)
 
 <br/>
 
-### ⚙️ Automação & Integrações
+### Automação & Integrações
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="44" alt="n8n"/>
@@ -107,7 +105,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 <br/>
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="48" alt="PostgreSQL, MySQL e Redis"/>
@@ -122,7 +120,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 <br/>
 
-### 🛠️ Desenvolvimento & Ferramentas
+### Desenvolvimento & Ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,pycharm,idea" height="48" alt="Ferramentas de desenvolvimento"/>
@@ -142,7 +140,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 <br/>
 
-### ☁️ Cloud & Hospedagem
+### Cloud & Hospedagem
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,azure" height="48" alt="Google Cloud e Microsoft Azure"/>
@@ -155,13 +153,13 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 <br/>
 
-### 💼 Plataformas Empresariais
+### Plataformas Empresariais
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 <br/>
 
-## 🏅 Certificações
+## Certificações
 
 <div align="center">
 
@@ -176,7 +174,7 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 
 <br/>
 
-## 📚 Atualmente estudando
+## Formação em andamento
 
 * Inteligência Artificial Generativa
 * Arquitetura de Agentes de IA
@@ -186,18 +184,18 @@ Estou em **transição de carreira para a área de tecnologia**, construindo pro
 * Integração de APIs
 * Salesforce Administrator
 * Microsoft Foundry
-* Automação de Processos.
+* Automação de Processos
 
 
 <br/>
 
-## 🏢 Highland Automation
+## Highland Automation
 
-Projeto autoral dedicado ao desenvolvimento de **soluções com Inteligência Artificial, automação e integração de sistemas para empresas**.
+Iniciativa própria voltada ao desenvolvimento de **soluções de Inteligência Artificial, automação e integração de sistemas para empresas**.
 
-A Highland Automation nasceu com o propósito de transformar processos manuais e repetitivos em soluções digitais mais eficientes, combinando **IA, automações, APIs e sistemas inteligentes**.
+A Highland Automation tem como propósito converter processos manuais e repetitivos em soluções digitais mais eficientes, combinando **IA, automações, APIs e sistemas inteligentes**.
 
-**🚀 Soluções desenvolvidas**
+**Soluções desenvolvidas**
 
 * Agentes de IA integrados ao WhatsApp
 * Sistemas inteligentes de agendamento
@@ -208,33 +206,33 @@ A Highland Automation nasceu com o propósito de transformar processos manuais e
 * Assistentes inteligentes com IA
 * Sistemas administrativos e dashboards
 
-**🛠️ Tecnologias utilizadas**
+**Tecnologias utilizadas**
 
 `n8n` `Supabase` `PostgreSQL` `Redis` `Evolution API` `OpenAI` `Google Vertex AI` `Lovable` `Docker` `Hostinger` `Render` `REST APIs` `Webhooks`
 
 <br/>
 
-## 📂 Projetos
+## Projetos
 
-### 🤖 Sistema Inteligente de Agendamento
-Assistente de IA integrado ao **WhatsApp** que realiza agendamentos, responde dúvidas dos clientes e automatiza o atendimento de ponta a ponta.
+### Sistema Inteligente de Agendamento
+Assistente de IA integrado ao **WhatsApp**, responsável por realizar agendamentos, responder dúvidas de clientes e automatizar o atendimento de ponta a ponta.
 `IA` `WhatsApp` `n8n` `APIs` `Supabase` `PostgreSQL` `Automação`
 
-### 💬 Bot Inteligente para WhatsApp
-Bot conversacional construído sobre a **Evolution API** e modelos de IA, criado para automatizar atendimentos e conduzir interações mais naturais com os usuários.
+### Bot para WhatsApp
+Bot conversacional construído sobre a **Evolution API** e modelos de IA, desenvolvido para automatizar atendimentos e conduzir interações mais naturais com os usuários.
 `Evolution API` `OpenAI` `n8n` `APIs REST` `Webhooks`
 
-### 🔄 Integrações Inteligentes
-Automações que conectam sistemas, APIs, bancos de dados e ferramentas distintas, eliminando tarefas repetitivas e melhorando o fluxo de trabalho entre plataformas.
+### Integrações entre Sistemas
+Automações que conectam sistemas, APIs e bancos de dados distintos, reduzindo tarefas manuais e melhorando o fluxo de trabalho entre plataformas.
 `Python` `APIs` `PostgreSQL` `Supabase` `n8n` `Webhooks`
 
-### 📈 Automações Empresariais
-Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiência operacional e dar mais previsibilidade aos processos internos das empresas.
+### Automações Empresariais
+Fluxos automatizados desenvolvidos para reduzir tarefas manuais, aumentar a eficiência operacional e dar mais previsibilidade aos processos internos das empresas.
 `n8n` `IA` `APIs` `Automação`
 
 <br/>
 
-## 🎯 Áreas de Interesse
+## Áreas de Interesse
 
 <div align="center">
 
@@ -250,7 +248,7 @@ Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiên
 
 <br/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -269,7 +267,7 @@ Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiên
 
 <br/>
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
@@ -279,9 +277,9 @@ Fluxos automatizados desenvolvidos para reduzir tarefas manuais, ganhar eficiên
 
 <br/>
 
-### 🚀 Construindo minha carreira em Inteligência Artificial, Automação e Desenvolvimento.
+### Carreira em construção nas áreas de Inteligência Artificial, Automação e Desenvolvimento
 
-> Transformando processos manuais em soluções inteligentes com **IA, automação e tecnologia**.
+> Convertendo processos manuais em soluções inteligentes por meio de **IA, automação e tecnologia**.
 
 </div>
 
