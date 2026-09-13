@@ -22,7 +22,7 @@ Atualmente em **transição de carreira para a área de tecnologia**, aplicando 
 
 > [!TIP]
 > ### Objetivo profissional
-> Desenvolver soluções de **Inteligência Artificial e automação** que gerem valor mensurável para o negócio — reduzindo tempo operacional, eliminando tarefas repetitivas e aumentando a previsibilidade dos processos.
+> Desenvolver soluções de **Inteligência Artificial e automação** que gerem valor mensurável para o negócio, reduzindo tempo operacional, eliminando tarefas repetitivas e aumentando a previsibilidade dos processos.
 
 <br/>
 
