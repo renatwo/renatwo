@@ -183,7 +183,6 @@ Atualmente em **transição de carreira para a área de tecnologia**, aplicando 
 * Context Engineering
 * Integração de APIs
 * Salesforce Administrator
-* Microsoft Foundry
 * Automação de Processos
 
 
