@@ -204,7 +204,7 @@ A Highland Automation tem como propósito converter processos manuais e repetiti
 * Integrações entre APIs e sistemas
 * Integração com bancos de dados
 * Assistentes inteligentes com IA
-* Sistemas administrativos e dashboards
+
 
 **Tecnologias utilizadas**
 
