@@ -1,11 +1,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Intelig%C3%AAncia%20Artificial%20%7C%20Python%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=19&animation=fadeIn" alt="Banner Renato Queiroz" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:10253F,75:1B3B5D,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=F0F6FC&fontAlignY=38&desc=Intelig%C3%AAncia%20Artificial%20%7C%20Python%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=19&animation=fadeIn" alt="Banner Renato Queiroz" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Python+%7C+AI+Agents+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Python+%7C+AI+Agents+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=python,js,postgres,redis,docker,azure,gcp,git,github" width="390" alt="Python, JavaScript, PostgreSQL, Redis, Docker, Azure, Google Cloud, Git e GitHub" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/renato-queiroz-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-876ba518b/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +26,9 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Open_to_Work-Est%C3%A1gio_%7C_J%C3%BAnior-238636?style=flat-square&logo=linkedin&logoColor=white" alt="Open to Work"/>
-<img src="https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=flat-square&label=VISUALIZA%C3%87%C3%95ES" alt="Visualizações do perfil"/>
+
+<img src="https://komarev.com/ghpvc/?username=renatwo&color=58A6FF&style=flat-square&label=VISUALIZA%C3%87%C3%95ES" alt="Visualizações do perfil"/>
+
 <img src="https://img.shields.io/github/followers/renatwo?style=flat-square&color=D97757&logo=github&logoColor=white&label=SEGUIDORES" alt="Seguidores"/>
 
 <br/><br/>
@@ -193,7 +199,7 @@ Ferramentas e tecnologias utilizadas em meus projetos e estudos.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,git,github,vscode" alt="Linguagens e ferramentas de desenvolvimento"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,git,github,vscode" alt="Linguagens e ferramentas de desenvolvimento"/>
 
 <br/><br/>
 
@@ -242,7 +248,7 @@ Ferramentas e tecnologias utilizadas em meus projetos e estudos.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite" alt="Bancos de dados"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Bancos de dados"/>
 
 <br/><br/>
 
@@ -250,6 +256,15 @@ Ferramentas e tecnologias utilizadas em meus projetos e estudos.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### Dados e visualização
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-Em_Aprendizado-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-An%C3%A1lise_de_Dados-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -377,9 +392,33 @@ Estudos de desenvolvimento e integração de agentes de Inteligência Artificial
 
 <img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Cobrinha animada das contribuições"/>
 
+</div>
+
+---
+
+## Gostou do que encontrou por aqui?
+
+<div align="center">
+
+### Uma estrela faz toda a diferença!
+
+Se algum dos meus projetos despertou sua curiosidade, ajudou nos seus estudos ou trouxe uma ideia nova, considere deixar uma estrela no repositório!
+
+Cada estrela é um incentivo para continuar aprendendo, desenvolvendo e compartilhando projetos de **Inteligência Artificial, Python e automação**.
+
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS" alt="Contador de visitas ao perfil"/>
+<a href="https://github.com/renatwo?tab=repositories">
+  <img src="https://img.shields.io/badge/DEIXE_UMA_ESTRELA-NOS_MEUS_PROJETOS-D97757?style=for-the-badge&logo=github&logoColor=white" alt="Explore os projetos e deixe uma estrela"/>
+</a>
+
+<br/><br/>
+
+### E se quiser me pagar um café...
+
+Prometo transformar a cafeína em mais projetos, automações e agentes de IA! ☕😂
+
+**Obrigado pela visita! Vamos construir coisas incríveis juntos.**
 
 </div>
 
@@ -416,4 +455,4 @@ Animações selecionadas da coleção
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:3A2036,100:0D1117&height=130&section=footer" alt="Rodapé"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,40:1B3B5D,75:10253F,100:0D1117&height=130&section=footer" alt="Rodapé Midnight Tech"/>
