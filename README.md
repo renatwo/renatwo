@@ -1,285 +1,419 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=IA%20Aplicada%20e%20Automa%C3%A7%C3%A3o%20de%20Processos&descAlign=50&descAlignY=55&descSize=18&stroke=D97757&strokeWidth=1" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Construindo+solu%C3%A7%C3%B5es+com+IA+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
-
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open_to_Work-Dispon%C3%ADvel-D97757?style=for-the-badge&logo=linkedin&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/renatwo?style=for-the-badge&color=D97757&logo=github&logoColor=white)
-
-</div>
-
-<br/>
-
-## Sobre mim
-
-Estudante de **Inteligência Artificial Aplicada** pela PUCPR, com foco em automação de processos e desenvolvimento de soluções orientadas a resultado para empresas.
-
-Atualmente em **transição de carreira para a área de tecnologia**, aplicando experiência prévia em processos de negócio ao desenvolvimento de projetos práticos com **IA, Python, APIs, bancos de dados e automações inteligentes**.
-
-> [!TIP]
-> ### Objetivo profissional
-> Desenvolver soluções de **Inteligência Artificial e automação** que gerem valor mensurável para o negócio, reduzindo tempo operacional, eliminando tarefas repetitivas e aumentando a previsibilidade dos processos..
-
-<br/>
-
-## Áreas de atuação
-
-* Agentes de IA para WhatsApp
-* Automações com n8n
-* Aplicações com modelos de IA generativa
-* Sistemas de agendamento automatizado
-* Integração entre APIs e sistemas
-* Bots conversacionais
-* Automação de processos empresariais
-* Integração com bancos de dados
-* Desenvolvimento de aplicações e sistemas web
-
-<br/>
-
-## Stack Tecnológica
-
-### Linguagens
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html" height="48" alt="Python, Java, JavaScript e HTML"/>
-</p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-### Backend, APIs & Integrações
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postman" height="48" alt="FastAPI e Postman"/>
-</p>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br/>
-
-### Inteligência Artificial & LLMs
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="44" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="44" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="44" alt="Google AI"/>
-</p>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent_AI-FF5A50?style=for-the-badge)
-
-<br/>
-
-### Automação & Integrações
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="44" alt="n8n"/>
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="44" alt="Evolution API / WhatsApp"/>
-  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="44" alt="Zapier"/>
-</p>
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
-![APIs](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge&logo=postman&logoColor=white)
-![Zapier](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Dify](https://img.shields.io/badge/Dify-1C1C1C?style=for-the-badge&logoColor=white)
-
-<br/>
-
-### Banco de Dados
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="48" alt="PostgreSQL, MySQL e Redis"/>
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="48" alt="Supabase"/>
-</p>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<br/>
-
-### Desenvolvimento & Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,pycharm,idea" height="48" alt="Ferramentas de desenvolvimento"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lovable.svg" height="48" alt="Lovable"/>
-</p>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-EC4899?style=for-the-badge&logoColor=white)
-
-<br/>
-
-### Cloud & Hospedagem
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,azure" height="48" alt="Google Cloud e Microsoft Azure"/>
-</p>
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-
-<br/>
-
-### Plataformas Empresariais
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-<br/>
-
-## Certificações
 
 <div align="center">
 
-[<img src="https://images.credly.com/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/linkedin_thumb_blob" height="150" alt="AWS Knowledge: Cloud Essentials - Training Badge"/>](https://www.credly.com/badges/94220a14-98e6-4c37-bb27-a68193b89ccd/public_url)
-[<img src="https://images.credly.com/size/680x680/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" width="150" height="150" style="object-fit:contain;" alt="Develop GenAI Apps with Gemini and Streamlit"/>](https://www.credly.com/badges/446420a5-9e32-452e-878b-fbe406798fbc/public_url)
-[<img src="https://cdn.qwiklabs.com/Ec0TSJNh7EFrWqYCyCJQmcuEeXh2KQhWIhYkMv3SuYs%3D" width="150" height="150" style="object-fit:contain;" alt="Gemini for Application Developers"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24216432)
-[<img src="https://cdn.qwiklabs.com/w08Qy7b1VOOPaieflHPtrilBC6kuMyrY9Vvs2BbZndE%3D" width="150" height="150" style="object-fit:contain;" alt="Vibe Coding for Beginners: From Zero to App"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24559726)
-[<img src="https://cdn.qwiklabs.com/vRDTuK%2BEWvMNr%2BRMjnXhrxqum6X%2FfUuYurBBS3Cqf%2B0%3D" width="150" height="150" style="object-fit:contain;" alt="Introduction to Vertex AI Studio"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/22280112)
-[<img src="https://cdn.qwiklabs.com/7xFCpXl6c41wp0LLllrB7TUvpcYBIcfIbPMjsKESjGQ%3D" width="150" height="150" style="object-fit:contain;" alt="Introduction to AI Agents"/>](https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24210745)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3A2036,100:D97757&height=220&section=header&text=Renato%20Queiroz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Intelig%C3%AAncia%20Artificial%20%7C%20Python%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=19&animation=fadeIn" alt="Banner Renato Queiroz" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+Renato+Queiroz;Estudante+de+IA+Aplicada+na+PUCPR;Python+%7C+AI+Agents+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
 
 <br/>
 
-## Formação em andamento
+<a href="https://www.linkedin.com/in/renato-queiroz-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-876ba518b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-* Inteligência Artificial Generativa
-* Arquitetura de Agentes de IA
-* Machine Learning
-* Prompt Engineering
-* Context Engineering
-* Integração de APIs
-* Salesforce Administrator
-* Automação de Processos
+<a href="mailto:renato@renatoaqueiroz.com">
+  <img src="https://img.shields.io/badge/Email-Contato-D97757?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
 
-
-<br/>
-
-## Highland Automation
-
-Iniciativa própria voltada ao desenvolvimento de **soluções de Inteligência Artificial, automação e integração de sistemas para empresas**.
-
-A Highland Automation tem como propósito converter processos manuais e repetitivos em soluções digitais mais eficientes, combinando **IA, automações, APIs e sistemas inteligentes**.
-
-**Soluções desenvolvidas**
-
-* Agentes de IA integrados ao WhatsApp
-* Sistemas inteligentes de agendamento
-* Automação de atendimento ao cliente
-* Automação de processos empresariais
-* Integrações entre APIs e sistemas
-* Integração com bancos de dados
-* Assistentes inteligentes com IA
-
-
-**Tecnologias utilizadas**
-
-`n8n` `Supabase` `PostgreSQL` `Redis` `Evolution API` `OpenAI` `Google Vertex AI` `Lovable` `Docker` `Hostinger` `Render` `REST APIs` `Webhooks`
-
-<br/>
-
-## Projetos
-
-### Sistema Inteligente de Agendamento
-Assistente de IA integrado ao **WhatsApp**, responsável por realizar agendamentos, responder dúvidas de clientes e automatizar o atendimento de ponta a ponta.
-`IA` `WhatsApp` `n8n` `APIs` `Supabase` `PostgreSQL` `Automação`
-
-### Bot para WhatsApp
-Bot conversacional construído sobre a **Evolution API** e modelos de IA, desenvolvido para automatizar atendimentos e conduzir interações mais naturais com os usuários.
-`Evolution API` `OpenAI` `n8n` `APIs REST` `Webhooks`
-
-### Integrações entre Sistemas
-Automações que conectam sistemas, APIs e bancos de dados distintos, reduzindo tarefas manuais e melhorando o fluxo de trabalho entre plataformas.
-`Python` `APIs` `PostgreSQL` `Supabase` `n8n` `Webhooks`
-
-### Automações Empresariais
-Fluxos automatizados desenvolvidos para reduzir tarefas manuais, aumentar a eficiência operacional e dar mais previsibilidade aos processos internos das empresas.
-`n8n` `IA` `APIs` `Automação`
-
-<br/>
-
-## Áreas de Interesse
-
-<div align="center">
-
-![Inteligência Artificial](https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-2B2D42?style=for-the-badge)
-![IA Generativa](https://img.shields.io/badge/IA_Generativa-2B2D42?style=for-the-badge)
-![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-2B2D42?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-2B2D42?style=for-the-badge)
-![Automação de Processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o_de_Processos-2B2D42?style=for-the-badge)
-![Desenvolvimento Python](https://img.shields.io/badge/Desenvolvimento_Python-2B2D42?style=for-the-badge)
-![Cloud & IA](https://img.shields.io/badge/Cloud_%26_IA-2B2D42?style=for-the-badge)
-
-</div>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="195" src="https://github-stats-extended.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renatwo&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<a href="https://github.com/renatwo?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/>
+</a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://img.shields.io/badge/Open_to_Work-Est%C3%A1gio_%7C_J%C3%BAnior-238636?style=flat-square&logo=linkedin&logoColor=white" alt="Open to Work"/>
+<img src="https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=flat-square&label=VISUALIZA%C3%87%C3%95ES" alt="Visualizações do perfil"/>
+<img src="https://img.shields.io/github/followers/renatwo?style=flat-square&color=D97757&logo=github&logoColor=white&label=SEGUIDORES" alt="Seguidores"/>
+
+<br/><br/>
+
+[Sobre mim](#sobre-mim) •
+[Projetos](#projetos-em-destaque) •
+[Tecnologias](#tecnologias) •
+[Formação](#formação-e-aprendizado) •
+[Estatísticas](#estatísticas-do-github) •
+[Contato](#contato)
 
 </div>
 
+---
+
+## Sobre mim
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Animação de programação"/>
+
+Sou estudante de **Inteligência Artificial Aplicada na PUCPR**, em transição de carreira para a área de Tecnologia.
+
+Meu foco está no desenvolvimento de soluções com:
+
+- Python e SQL
+- Inteligência Artificial Generativa
+- Agentes de IA (AI Agents)
+- Automação de processos
+- APIs REST e integração de sistemas
+- Modelos de linguagem (LLMs)
+- RAG e bancos de dados
+
+Desenvolvo projetos práticos conectando modelos de IA, APIs, bancos de dados e automações para resolver problemas reais e otimizar processos empresariais.
+
+Também desenvolvo soluções por meio da **Highland Automation**, minha iniciativa de desenvolvimento autônomo, com projetos envolvendo agentes de IA para atendimento, sistemas de agendamento e integração entre plataformas.
+
+Minha experiência anterior nas áreas comercial, administrativa e logística proporciona conhecimento de operações B2B, processos empresariais e necessidades dos usuários.
+
+**Objetivo profissional:** oportunidades de estágio ou desenvolvimento júnior em Inteligência Artificial, Python, AI Agents, automação e integração de sistemas.
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="650" alt="Banner animado de programação em notebook"/>
+
+</div>
+
+---
+
+## Projetos em destaque
+
+Projetos desenvolvidos para aplicar Inteligência Artificial, programação e automação na resolução de diferentes problemas.
+
+### 01. Agente de Estoque com Inteligência Artificial
+
+**Python • Flask • SQLite • OpenAI • APIs REST**
+
+Sistema de consulta e reserva de produtos com validação de disponibilidade em banco de dados.
+
+- Consulta de produtos e quantidades disponíveis.
+- Reserva de itens com validação de estoque.
+- Integração com modelo de linguagem e ferramentas.
+- API REST desenvolvida em Flask.
+
+[**Acessar repositório**](https://github.com/renatwo/agente-estoque)
+
+---
+
+### 02. Agente de Análise de Imagens
+
+**Python • Streamlit • Microsoft Foundry • IA Multimodal**
+
+Aplicação web que utiliza um modelo multimodal para analisar imagens e apresentar informações estruturadas.
+
+- Envio de imagens pela interface Streamlit.
+- Análise de objetos, cores e características visuais.
+- Integração com modelo de IA no Microsoft Foundry.
+- Respostas estruturadas em JSON.
+
+[**Acessar repositório**](https://github.com/renatwo/Agente-de-An-lise-de-Imagens)
+
+---
+
+### 03. Agente de Atendimento WhatsApp com RAG
+
+**n8n • OpenAI • Supabase Vector Store • Evolution API**
+
+Agente de atendimento automatizado que utiliza uma base de conhecimento para responder a perguntas dos usuários.
+
+- Atendimento automático via WhatsApp.
+- Processamento de mensagens de texto e áudio.
+- Integração com documentos do Google Drive.
+- Consulta à base vetorial no Supabase.
+- Fluxos de atendimento e respostas com IA.
+
+[**Acessar repositório**](https://github.com/renatwo/n8n-rag-whatsapp-agent)
+
+---
+
+### 04. SmartRoute AI — Otimização Inteligente de Rotas
+
+**n8n • Google Maps Routes API • Google Sheets • Gemini**
+
+Automação logística que utiliza dados de entregas para calcular rotas e gerar orientações operacionais.
+
+- Importação de planilhas de entregas.
+- Integração com Google Drive.
+- Cálculo e otimização de rotas.
+- Geração de briefing com Gemini.
+- Registro dos resultados no Google Sheets.
+
+[**Acessar repositório**](https://github.com/renatwo/smartroute-ai-n8n)
+
+---
+
+### 05. MeteoZap — Agente de Previsão do Tempo
+
+**n8n • Gemini • OpenWeather API • Evolution API**
+
+Agente de Inteligência Artificial que consulta informações meteorológicas e responde automaticamente pelo WhatsApp.
+
+- Consultas de clima em linguagem natural.
+- Identificação da cidade solicitada.
+- Informações meteorológicas em tempo real.
+- Previsão para os próximos dias.
+- Memória de conversa por usuário.
+- Integração de APIs e ferramentas.
+
+[**Acessar repositório**](https://github.com/renatwo/n8n-ai-weather-agent)
+
+---
+
+### 06. Sistema Multiagente com CrewAI
+
+**Python • CrewAI • OpenAI • Serper API**
+
+Projeto que demonstra a colaboração entre agentes de IA com responsabilidades diferentes.
+
+- Agente planejador.
+- Agente redator.
+- Agente revisor.
+- Coordenação das atividades por meio do CrewAI.
+- Geração e revisão de conteúdo.
+
+[**Acessar repositório**](https://github.com/renatwo/Agentes-de-IA-CrewAi)
+
+<div align="center">
+
 <br/>
+
+<a href="https://github.com/renatwo?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORAR_TODOS_OS_MEUS_PROJETOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos os projetos"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" alt="Divisor animado"/>
+
+</div>
+
+## Tecnologias
+
+Ferramentas e tecnologias utilizadas em meus projetos e estudos.
+
+### Linguagens e desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,git,github,vscode" alt="Linguagens e ferramentas de desenvolvimento"/>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+### Inteligência Artificial e LLMs
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge)
+
+<br/>
+
+![LLMs](https://img.shields.io/badge/LLMs-292238?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-292238?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-292238?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-292238?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-292238?style=flat-square)
+
+</div>
+
+### Automação e integração de sistemas
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge)
+![Dify](https://img.shields.io/badge/Dify-181717?style=for-the-badge)
+
+</div>
+
+### Bancos de dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite" alt="Bancos de dados"/>
+
+<br/><br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### Cloud, infraestrutura e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,azure,gcp,git,github,postman" alt="Cloud e infraestrutura"/>
+
+<br/><br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Render](https://img.shields.io/badge/Render-181717?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## Highland Automation
+
+**Desenvolvimento de soluções com Inteligência Artificial e automação.**
+
+A Highland Automation é minha iniciativa própria voltada ao desenvolvimento de soluções tecnológicas para empresas.
+
+### Áreas de desenvolvimento
+
+- Agentes de Inteligência Artificial integrados ao WhatsApp.
+- Sistemas de agendamento automatizado.
+- Atendimento inteligente e assistentes virtuais.
+- Integrações entre APIs e bancos de dados.
+- Automação de processos empresariais.
+- Desenvolvimento de aplicações web.
+- Implantação de sistemas em VPS.
+
+### Tecnologias aplicadas
+
+n8n • Python • Supabase • PostgreSQL • Redis • Evolution API • OpenAI • Vertex AI • Docker • REST APIs • Webhooks
+
+---
+
+## Formação e aprendizado
+
+### Graduação
+
+**Pontifícia Universidade Católica do Paraná — PUCPR**
+
+Graduação em Inteligência Artificial Aplicada.
+
+Status: Em andamento.
+
+### Formação complementar
+
+**SENAI — Power BI e Análise de Dados com IA**
+
+Curso em andamento, com foco em análise, tratamento e visualização de dados.
+
+**SENAI — AI Agents com Microsoft Foundry**
+
+Estudos de desenvolvimento e integração de agentes de Inteligência Artificial.
+
+**Outras áreas de estudo**
+
+- Python e programação orientada a objetos.
+- Bancos de dados e SQL.
+- Machine Learning.
+- Inteligência Artificial Generativa.
+- Agentes de IA e RAG.
+- Integração de APIs.
+- Automação de processos.
+- Salesforce Administrator.
+
+---
+
+## Certificações e badges
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/94220a14-98e6-4c37-bb27-a68193b89ccd/public_url">
+  <img src="https://images.credly.com/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/linkedin_thumb_blob" width="125" alt="AWS Knowledge Cloud Essentials"/>
+</a>
+
+<a href="https://www.credly.com/badges/446420a5-9e32-452e-878b-fbe406798fbc/public_url">
+  <img src="https://images.credly.com/size/680x680/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" width="125" alt="Develop GenAI Apps with Gemini and Streamlit"/>
+</a>
+
+<a href="https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24216432">
+  <img src="https://cdn.qwiklabs.com/Ec0TSJNh7EFrWqYCyCJQmcuEeXh2KQhWIhYkMv3SuYs%3D" width="125" alt="Gemini for Application Developers"/>
+</a>
+
+<a href="https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24559726">
+  <img src="https://cdn.qwiklabs.com/w08Qy7b1VOOPaieflHPtrilBC6kuMyrY9Vvs2BbZndE%3D" width="125" alt="Vibe Coding for Beginners"/>
+</a>
+
+<a href="https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/22280112">
+  <img src="https://cdn.qwiklabs.com/vRDTuK%2BEWvMNr%2BRMjnXhrxqum6X%2FfUuYurBBS3Cqf%2B0%3D" width="125" alt="Introduction to Vertex AI Studio"/>
+</a>
+
+<a href="https://www.skills.google/public_profiles/dae19fb9-1f80-42bb-98dc-fd1fb36f2f03/badges/24210745">
+  <img src="https://cdn.qwiklabs.com/7xFCpXl6c41wp0LLllrB7TUvpcYBIcfIbPMjsKESjGQ%3D" width="125" alt="Introduction to AI Agents"/>
+</a>
+
+</div>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="190" src="https://github-stats-extended.vercel.app/api?username=renatwo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
+
+<img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=renatwo&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Linguagens mais utilizadas"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=renatwo&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
+
+</div>
+
+### Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/renatwo/renatwo/output/github-contribution-grid-snake.svg" alt="Cobrinha animada das contribuições"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=renatwo&color=D97757&style=for-the-badge&label=PROFILE+VIEWS" alt="Contador de visitas ao perfil"/>
+
+</div>
+
+---
 
 ## Contato
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato@renatoaqueiroz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/renato-queiroz-876ba518b)
-[![GitHub](https://img.shields.io/badge/GitHub-renatwo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatwo)
+**Vamos conversar sobre Inteligência Artificial, Python, automação e oportunidades em tecnologia?**
 
 <br/>
 
-### Carreira em construção nas áreas de Inteligência Artificial, Automação e Desenvolvimento
+<a href="mailto:renato@renatoaqueiroz.com">
+  <img src="https://img.shields.io/badge/Email-renato%40renatoaqueiroz.com-D97757?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
 
-> Convertendo processos manuais em soluções inteligentes por meio de **IA, automação e tecnologia**.
+<a href="https://www.linkedin.com/in/renato-queiroz-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-876ba518b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Renato_Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+### Inteligência Artificial • Automação • Desenvolvimento
+
+*Transformando problemas reais em soluções tecnológicas.*
+
+<br/>
+
+<sub>
+Animações selecionadas da coleção
+<a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs for GitHub — Anmol Baranwal</a>.
+</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:3A2036,100:0D1117&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:3A2036,100:0D1117&height=130&section=footer" alt="Rodapé"/>
