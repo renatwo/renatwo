@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,postgres,redis,docker,azure,gcp,git,github" width="390" alt="Python, JavaScript, PostgreSQL, Redis, Docker, Azure, Google Cloud, Git e GitHub" />
+<img src="https://skillicons.dev/icons?i=python,js,postgres,redis,docker,azure,gcp,git,github" width="390" alt="Tecnologias" />
 
 <br/><br/>
 
@@ -84,7 +84,61 @@ Minha experiência anterior nas áreas comercial, administrativa e logística pr
 
 Projetos desenvolvidos para aplicar Inteligência Artificial, programação e automação na resolução de diferentes problemas.
 
-### 01. Agente de Estoque com Inteligência Artificial
+### 01. Highland AI Workforce — Sistema Multiagentes de IA
+
+<div align="center">
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+</div>
+
+Sistema multiagentes de Inteligência Artificial voltado à inteligência empresarial, automação de processos e geração de relatórios executivos.
+
+A arquitetura é composta por sete agentes especializados que trabalham de maneira coordenada.
+
+| Agente | Especialidade |
+|---|---|
+| Ayla | Supervisão e orquestração multiagentes |
+| Oliver | Inteligência comercial |
+| Ethan | Análise financeira |
+| Sophia | Marketing e estratégias |
+| Noah | Análise de dados e indicadores |
+| Emma | Atendimento ao cliente |
+| Hugo | Business Intelligence e relatórios executivos |
+
+**Principais funcionalidades:**
+
+- Orquestração e delegação inteligente de tarefas.
+- Identificação de clientes inativos e oportunidades comerciais.
+- Análise de faturamento, vendas e inadimplência.
+- Consultas empresariais utilizando linguagem natural.
+- Geração automatizada de relatórios personalizados em Excel.
+- Criação de dashboards executivos e gráficos analíticos.
+- Elaboração de planos de ação individualizados por cliente.
+- Memória conversacional individual por usuário.
+- Controle de acesso e consultas SQL parametrizadas.
+- Integração com Google Vertex AI e Supabase.
+
+A demonstração utiliza o Telegram como interface conversacional e uma base de dados empresariais fictícia.
+
+A arquitetura pode ser adaptada para WhatsApp, Microsoft Teams, e-mail e sistemas corporativos.
+
+<div align="center">
+
+<a href="https://github.com/renatwo/highland-ai-workforce">
+  <img src="https://img.shields.io/badge/ACESSAR_PROJETO-HIGHLAND_AI_WORKFORCE-087E8B?style=for-the-badge&logo=github&logoColor=white" alt="Highland AI Workforce"/>
+</a>
+
+</div>
+
+---
+
+### 02. Agente de Estoque com Inteligência Artificial
 
 **Python • Flask • SQLite • OpenAI • APIs REST**
 
@@ -99,7 +153,7 @@ Sistema de consulta e reserva de produtos com validação de disponibilidade em 
 
 ---
 
-### 02. Agente de Análise de Imagens
+### 03. Agente de Análise de Imagens
 
 **Python • Streamlit • Microsoft Foundry • IA Multimodal**
 
@@ -114,7 +168,7 @@ Aplicação web que utiliza um modelo multimodal para analisar imagens e apresen
 
 ---
 
-### 03. Agente de Atendimento WhatsApp com RAG
+### 04. Agente de Atendimento WhatsApp com RAG
 
 **n8n • OpenAI • Supabase Vector Store • Evolution API**
 
@@ -130,7 +184,7 @@ Agente de atendimento automatizado que utiliza uma base de conhecimento para res
 
 ---
 
-### 04. SmartRoute AI — Otimização Inteligente de Rotas
+### 05. SmartRoute AI — Otimização Inteligente de Rotas
 
 **n8n • Google Maps Routes API • Google Sheets • Gemini**
 
@@ -146,7 +200,7 @@ Automação logística que utiliza dados de entregas para calcular rotas e gerar
 
 ---
 
-### 05. MeteoZap — Agente de Previsão do Tempo
+### 06. MeteoZap — Agente de Previsão do Tempo
 
 **n8n • Gemini • OpenWeather API • Evolution API**
 
@@ -163,7 +217,7 @@ Agente de Inteligência Artificial que consulta informações meteorológicas e 
 
 ---
 
-### 06. Sistema Multiagente com CrewAI
+### 07. Sistema Multiagente com CrewAI
 
 **Python • CrewAI • OpenAI • Serper API**
 
@@ -226,9 +280,11 @@ Ferramentas e tecnologias utilizadas em meus projetos e estudos.
 
 ![LLMs](https://img.shields.io/badge/LLMs-292238?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-292238?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-292238?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-292238?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-292238?style=flat-square)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-292238?style=flat-square)
+![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-292238?style=flat-square)
 
 </div>
 
@@ -238,6 +294,7 @@ Ferramentas e tecnologias utilizadas em meus projetos e estudos.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Evolution API](https://img.shields.io/badge/Evolution_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge)
 ![Dify](https://img.shields.io/badge/Dify-181717?style=for-the-badge)
@@ -265,6 +322,8 @@ Ferramentas e tecnologias utilizadas em meus projetos e estudos.
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Em_Aprendizado-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-An%C3%A1lise_de_Dados-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-087E8B?style=for-the-badge)
 
 </div>
 
@@ -293,9 +352,11 @@ A Highland Automation é minha iniciativa própria voltada ao desenvolvimento de
 
 ### Áreas de desenvolvimento
 
-- Agentes de Inteligência Artificial integrados ao WhatsApp.
+- Sistemas multiagentes de Inteligência Artificial.
+- Agentes de IA integrados ao WhatsApp e Telegram.
 - Sistemas de agendamento automatizado.
 - Atendimento inteligente e assistentes virtuais.
+- Business Intelligence e relatórios executivos.
 - Integrações entre APIs e bancos de dados.
 - Automação de processos empresariais.
 - Desenvolvimento de aplicações web.
@@ -303,7 +364,7 @@ A Highland Automation é minha iniciativa própria voltada ao desenvolvimento de
 
 ### Tecnologias aplicadas
 
-n8n • Python • Supabase • PostgreSQL • Redis • Evolution API • OpenAI • Vertex AI • Docker • REST APIs • Webhooks
+n8n • Python • JavaScript • Supabase • PostgreSQL • Redis • Evolution API • OpenAI • Vertex AI • Docker • REST APIs • Webhooks
 
 ---
 
